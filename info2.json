@@ -1,14 +1,11592 @@
 [
-    {
-        "Shqip": "LIBRI",
-        "VideoPath": "https://i.imgur.com/vSjOXys.gif"
-    },
-    {
-        "Shqip": "TI",
-        "VideoPath": "https://i.imgur.com/vSjOXys.gif"
-    },
-    {
-        "Shqip": "JU",
-        "VideoPath": "https://i.imgur.com/vSjOXys.gif"
-    }
+	{
+		"Shqip" : "KUTITË" ,
+		"VideoPath" : "https://i.imgur.com/vSjOXys.gif"
+	},
+	{
+		"Shqip" : "KUTITE" ,
+		"VideoPath" : "https://i.imgur.com/vSjOXys.gif"
+	},
+	{
+		"Shqip" : "KUTIA" ,
+		"VideoPath" : "https://i.imgur.com/vSjOXys.gif"
+	},
+	{
+		"Shqip" : "KUTI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "FTOHTË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "FTOHTE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "NGJITËSI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "NGJITESI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "NGJITËS" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "NGJITES" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "SHËNIMET" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "SHENIMET" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "SHËNIME" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "SHENIME" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KRYESORJA" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KRYESORI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KRYEFJALA" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "DIZAJNI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "DIZAJNET" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "DIZAJN" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PAMJET" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PAMJE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KALENDARI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KALENDAR " ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KUJDESTARE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "DADO" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "TOLLOVI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "RRËMUJË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "RREMUJE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "TË RRËMUJSHËM" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "I RRËMUJSHËM" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "TE RREMUJSHEM" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "I RREMUJSHEM" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "QESHUR" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "QESHIN" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "QESHNI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "QESHIM" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "QESH" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KOMEDI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "HORROR" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "IMAGJINO" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PATENTË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PATENTE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "LEJA" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "LEJE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "ZEMRA" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "ZEMËR" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "ZEMER" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "TË DHËNAT" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "TE DHENAT" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PALLOMË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PALLOM" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PALLOME" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PALLOMA" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "BUKUR" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "MAKINË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "MAKIN" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "MAKINE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "VETURË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "VETURE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "VETUR" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "AUTOMJET" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "AUTOMJETI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "VETURA" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "MAKINA" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "FËMIJËRI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "FEMIJERI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PLEQËRI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PLEQERI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PJEKURI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PUBERTET" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "HAPËSIRË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "HAPESIRE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PËRQIND" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PERQIND" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PËRQINDJE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PERQINDJE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "BENZINË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "BENZINE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "BENZINA" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "NAFTË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "NAFTA" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "NAFTE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "DIELLI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "DIELL" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "HANA" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "HËNA" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "HËNË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "HENA" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "HENE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "YJET" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "YLLI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "YLL" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "EVENTET" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "EVENTI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "EVENT" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "MBLEDHJA" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "MBLEDHJE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KAMPI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KAMP" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "FTESË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "FTESA" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "FTESE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "FEJESA" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "FEJESË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "FEJESE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "MARTESA" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "MARTESE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "MARTESË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "LIDHJE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "MENDËT" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "MENDET" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "MENDJA" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "MEND" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "LLAPTOPI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "LLAPTOP" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PËRMIRËSUAR" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PERMIRESUAR" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PERMIRESOJN" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PERMIRESOJNE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PËRMIRËSOJNË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PËRMIRËSONI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PERMIRESONI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PERMIRESOJME" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PËRMIRËSOJMË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PERMIRESOJM" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PËRMIRËSON" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PERMIRESON" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PËRMIRËSOJ" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PERMIRESOJ" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PAGESË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PAGES" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PAGESE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PIKTURA" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PIKTURE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "ARTI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "ART" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "MATERIAL" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "GJELBERIM" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "MALET" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "MALE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "FUSHA" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "LËNDË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "LENDE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "LËNDA" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "LENDA" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "SHEMBUJT" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "SHEMBUJ" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "SHEMBULL" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "SHOQATË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "SHOQAT" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "SHOQATE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "SHOQATA" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "SHOQATAT" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KLUBET" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KLUBI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KLUB" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "ORGANIZATA" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "ORGANIZATË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "ORGANIZAT" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "ORGANIZATE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KAMERA" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KAMERE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KAMER" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KAMERË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "APARATURA" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "APARATURE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "APARAT" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "POSTË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "POST" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "POSTE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "MESAZHI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "MESAZH" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KLASIFIKUAR" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KLASIFIKOJNË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KLASIFIKOJN" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KLASIFIKOJNE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KLASIFIKONI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KLASIFIKOJMË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KLASIFIKOJM" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KLASIFIKOJME" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KLASIFIKON" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KLASIFIKOJ" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "TELEFONOJNË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "TELEFONOJNE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "TELEFONOJN" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "TELEFONONI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "TELEFONOJMË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "TELEFONOJM" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "TELEFONOJME" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "TELEFONOJ" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "MUNDUR" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "MUNDEN" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "MUNDENI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "MUNDEMI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "MUNDET" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "MUNDESH" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "MUNDEM" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "SHËNDET" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "SHENDET" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "SHËNDETI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "SHENDETI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "ANALIZAT" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "ANALIZA" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "MJEKIME" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "ILAÇE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "ILACE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "ALKOOL" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "CIGARE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "DUHAN" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "TOK" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "TOKË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "TOKE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "TOKA" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "OKSIGJENI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "OKSIGJEN" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "AJRI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "OXHAQE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "OXHAKU" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "OXHAK" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "DASHUR" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "DUHEN" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "DUHENI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "DUHEMI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "DUHET" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "DUHESH" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "DUHET" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "MARRIN" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "MERRNI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "MIRRNI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "MARRIM" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "MERR" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "MARR" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "JAPUR" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "JAPIN" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "JEPNI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "JIPNI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "JAPIM" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "JEP" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "JAP" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "E ZENE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "E ZËNË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "E LIRË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "E LIR" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "E LIRE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "TJERA" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "NDRYSHE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "WHATSAPP" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "TWITTER" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "FACEBOOK" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "YOUTUBE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "INSTAGRAM" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "GOOGLE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "ANIJA" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "ANIJE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "BICIKLETE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "BIÇIKLETË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "MOTOÇIKLETË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "MOTOCIKLETE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "TRENAT" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "TRENI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "TREN" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "HELIKOPTER" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "HELIKOPTERI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "INSTITUCIONEVE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "INSTITUCIONET" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "FOTOGRAFI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "FOTOGRAFIA" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "TAKSI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "AUTOBUSËT" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "AUTOBUSET" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "AUTOBUSIN" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "AUTOBUSIT" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "AUTOBUSI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "AUTOBUS" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "FARMACISË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "FARMACISE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "FARMACIS" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "FARMACINË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "FARMACIN" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "FARMACINE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "FARMACITË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "FARMACITE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "FARMACIT" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "FARMACI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "BARNATOREN" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "BARNATORES" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "BARNATORJA" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "BARNATORET" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "BARNATORE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "MARKETING" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "MARKETET" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "MARKET" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "MARKETIN" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "MARKETIT" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "MARKETI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "DYQANET" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "DYQANIN" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "DYQANIT" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "DYQANI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "DYQAN" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PSIKOLOGËT" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PSIKOLOGET" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PSIKOLOGUN" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PSIKOLOGUT" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PSIKOLOGU" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PSIKOLOG" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "GAZETARËT" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "GAZETARET" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "GAZETARIT" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "GAZETARIN" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "GAZETARI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "GAZETAR" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "EKONOMISTËT" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "EKONOMISTET" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "EKONOMISTIN" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "EKONOMISTIT" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "EKONOMISTI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "EKONOMIST" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "AUTORIN" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "AUTORIT" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "AUTORËT" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "AUTORET" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "AUTORI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "AUTOR" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "ASISTENTIN" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "ASISTENTIT" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "ASISTENTI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "ASISTENTËT" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "ASISTENTET" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "ASISTENT" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "AMBASADORIT" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "AMBASADORIN" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "AMBASADORI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "AMBASADORËT" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "AMBASADORET" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "AMBASADOR" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "ADMINISTRATORIT" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "ADMINISTRATORIN" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "ADMINISTRATORI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "ADMINISTRATORËT" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "ADMINISTRATORET" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "ADMINISTRATOR" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PILOTIN" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PILOTIT" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PILOTI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PILOTËT" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PILOTET" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PILOT" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "ARKITEKITIT" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "ARKITEKTIN" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "ARKITEKTI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "ARKITEKTËT" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "ARKITEKTET" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "ARKITEKT " ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "JURISTIN" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "JURISTIT" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "JURISTI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "JURISTËT" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "JURISTET" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "JURIST" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "SHITËSIT" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "SHITESIT" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "SHITESIN" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "SHITËSIN" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "SHITËSIT" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "SHITESIT" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "SHITESI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "SHITËSI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "SHITËS" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "SHITES" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "I VOGËL" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "I VOGEL" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "I MADH " ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "I SHKURTË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "I SHKURT" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "I SHKURTE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "I GJATË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "I GJAT" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "I GJATE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PAK" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PSE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "SHUM" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "SHUME" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "SHUMË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "TEPER" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "TEPËR" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "ATJE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "ATY" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "LARG" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "AFER" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "AFËR" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "THJESHT" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PATER" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PASTERTI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PASTËRTI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PASTËR" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "TE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "TË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "MES" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "MUA" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "E JONA" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "E YTJA" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "E IMJA" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "TE GJITHE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "TE GJITH" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "TË GJITHË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "ASNJËRA" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "ASNJERA" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PËRNGA" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PERNGA " ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PËRPOS" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PERPOS " ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "NGA" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "ME" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "SIPAS" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PËRAFËRSISHT" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PERAFERSISHT" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PO" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "JO" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "POR" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "NUK" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "QE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "QË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "EDHE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PER" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "DHE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PËR" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "TAKUAR" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "TAKOJNE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "TAKOJN" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "TAKONI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "TAKOJNË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "TAKOJMË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "TAKOJM" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "TAKOJME " ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "TAKON" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "TAKOJ" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "MERITUAR" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "MERITOJNE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "MERITONI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "MERITOJN" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "MERITOJNË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "MERITOJMË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "MERITOJM" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "MERITOJME" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "MERITON" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "MERITOJ" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "MERITOJA" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "MERITONIM" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "MERITONTE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "MERITONIT" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "MERITONIN" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "ZBATHIN" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "ZBATHNI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "ZBATHIM" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "ZBATH" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KËRCYER " ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KËRCEJM" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KERCEJM" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KËRCEJN" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KERCEJN" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KËRCEJNË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KËRCENI " ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KËRCEJMË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KËRCEN " ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KËRCEJ" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KERCYER " ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KERCEJNE " ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KERCENI " ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KERCEJME" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KERCEN " ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KERCEJ " ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "LENE " ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "LËNI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "LENI " ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "LËNË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "LEN" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "LËN" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "LËM" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "LEM" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "LËMË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "LEME" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "LE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "LË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "LËR" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "LASHE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "LASHË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "LASH" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "NDARË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "NDARE " ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "NDAJNE " ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "NDANI " ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "NDAJNË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "NDAJN" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "NDAJMË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "NDAJM" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "NDAJME" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "NDAJ" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "NDAN" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "DUKUR" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "DUKEN" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "DUKENI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "DUKEMI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "DUKET" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "DUKESH" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "DUKEM" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "DUKEJ" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "DUKESHA" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "DUKESHT" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "DUKESHIN" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "DUKESHIM" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "DUKESH" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PËRQAFUAR " ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PËRQAFOJNË " ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PËRQAFONI " ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PËRQAFOJM" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PËRQAFOJN" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PERQAFOJN" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PERQAFOJM" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PËRQAFOJMË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PËRQAFON " ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PËRQAFOJ " ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PERQAFUAR " ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PERQAFOJNE " ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PERQAFONI " ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PERQAFOJME " ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PERQAFON " ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PERQAFOJ " ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PËRQAFOJA" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PËRQAFOJE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PËRQAFONIM" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PËRQAFONTE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PËRQAFONIN" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PËRQAFONIT" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PERQAFOJA" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PERQAFOJE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PERQAFONTE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PERQAFONTE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PERQAFONIM" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PERQAFONIT" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PERQAFONIN" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KRENUAR " ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KRENOHEN" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KRENOHENI " ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KRENOHEMI " ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KRENOHET" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KRENOHESH " ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KRENOHEM " ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KRENOHESHA" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KRENOHESHE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KRENOHEJ" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KRENOHESHIM" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KRENOHESHIT" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KRENOHESHIN" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "MUNDUR " ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "MUNDEN" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "MUNDENI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "MUNDEMI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "MUNDET " ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "MUNDESH" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "MUNDEM " ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "MUNDUAR " ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "MUNDOHEN " ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "MUNDOHENI " ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "MUNDOHEMI " ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "MUNDOHET " ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "MUNDOHESH " ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "MUNDOHEM " ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "GJETUR " ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "GJEJNE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "GJENI " ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "GJEJNË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "GJEJN" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "GJEJMË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "GJEJM" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "GJEJME " ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "GJEN " ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "GJEJ " ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PALOSUR " ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PALOSIN " ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PALOSNI " ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PALOSIM " ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "pALOS" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "UJITUR" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "UJITIN" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "UJITNI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "UJISIM " ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "UJIT" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "UJIS " ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "THARË" ,
+		"VideoPath" : "https://i.imgur.com/MJ4EBvt.gif"
+	},
+	{
+		"Shqip" : "THARE" ,
+		"VideoPath" : "https://i.imgur.com/MJ4EBvt.gif"
+	},
+	{
+		"Shqip" : "THAR" ,
+		"VideoPath" : "https://i.imgur.com/MJ4EBvt.gif"
+	},
+	{
+		"Shqip" : "THAJNË" ,
+		"VideoPath" : "https://i.imgur.com/MJ4EBvt.gif"
+	},
+	{
+		"Shqip" : "THAJNE" ,
+		"VideoPath" : "https://i.imgur.com/MJ4EBvt.gif"
+	},
+	{
+		"Shqip" : "THAJN" ,
+		"VideoPath" : "https://i.imgur.com/MJ4EBvt.gif"
+	},
+	{
+		"Shqip" : "THANI " ,
+		"VideoPath" : "https://i.imgur.com/MJ4EBvt.gif"
+	},
+	{
+		"Shqip" : "THAJMË" ,
+		"VideoPath" : "https://i.imgur.com/MJ4EBvt.gif"
+	},
+	{
+		"Shqip" : "THAJM" ,
+		"VideoPath" : "https://i.imgur.com/MJ4EBvt.gif"
+	},
+	{
+		"Shqip" : "THAJME " ,
+		"VideoPath" : "https://i.imgur.com/MJ4EBvt.gif"
+	},
+	{
+		"Shqip" : "THAN" ,
+		"VideoPath" : "https://i.imgur.com/MJ4EBvt.gif"
+	},
+	{
+		"Shqip" : "THAJ" ,
+		"VideoPath" : "https://i.imgur.com/MJ4EBvt.gif"
+	},
+	{
+		"Shqip" : "HEKUROSUR" ,
+		"VideoPath" : "https://i.imgur.com/EKbJf03.gif"
+	},
+	{
+		"Shqip" : "HEKUROSIN " ,
+		"VideoPath" : "https://i.imgur.com/EKbJf03.gif"
+	},
+	{
+		"Shqip" : "HEKUROSNI " ,
+		"VideoPath" : "https://i.imgur.com/EKbJf03.gif"
+	},
+	{
+		"Shqip" : "HEKUROSIM " ,
+		"VideoPath" : "https://i.imgur.com/EKbJf03.gif"
+	},
+	{
+		"Shqip" : "HEKUROS " ,
+		"VideoPath" : "https://i.imgur.com/EKbJf03.gif"
+	},
+	{
+		"Shqip" : "NGASIN " ,
+		"VideoPath" : "https://i.imgur.com/fprN26l.gif"
+	},
+	{
+		"Shqip" : "NGISNI" ,
+		"VideoPath" : "https://i.imgur.com/fprN26l.gif"
+	},
+	{
+		"Shqip" : "NGASIM " ,
+		"VideoPath" : "https://i.imgur.com/fprN26l.gif"
+	},
+	{
+		"Shqip" : "NGET " ,
+		"VideoPath" : "https://i.imgur.com/fprN26l.gif"
+	},
+	{
+		"Shqip" : "NGAS " ,
+		"VideoPath" : "https://i.imgur.com/fprN26l.gif"
+	},
+	{
+		"Shqip" : "DITËLINDJA" ,
+		"VideoPath" : "https://i.imgur.com/lM753ug.gif"
+	},
+	{
+		"Shqip" : "DITELINDJA " ,
+		"VideoPath" : "https://i.imgur.com/lM753ug.gif"
+	},
+	{
+		"Shqip" : "URIME " ,
+		"VideoPath" : "https://i.imgur.com/VxUhaxJ.gif"
+	},
+	{
+		"Shqip" : "FESTUAR " ,
+		"VideoPath" : "https://i.imgur.com/598udPm.gif"
+	},
+	{
+		"Shqip" : "FESTOJNE " ,
+		"VideoPath" : "https://i.imgur.com/598udPm.gif"
+	},
+	{
+		"Shqip" : "FESTONI " ,
+		"VideoPath" : "https://i.imgur.com/598udPm.gif"
+	},
+	{
+		"Shqip" : "FESTOJNË" ,
+		"VideoPath" : "https://i.imgur.com/598udPm.gif"
+	},
+	{
+		"Shqip" : "FESTOJN" ,
+		"VideoPath" : "https://i.imgur.com/598udPm.gif"
+	},
+	{
+		"Shqip" : "FESTOJMË" ,
+		"VideoPath" : "https://i.imgur.com/598udPm.gif"
+	},
+	{
+		"Shqip" : "FESTOJM" ,
+		"VideoPath" : "https://i.imgur.com/598udPm.gif"
+	},
+	{
+		"Shqip" : "FESTOJME " ,
+		"VideoPath" : "https://i.imgur.com/598udPm.gif"
+	},
+	{
+		"Shqip" : "FESTON" ,
+		"VideoPath" : "lihttps://i.imgur.com/598udPm.gifnku"
+	},
+	{
+		"Shqip" : "FESTOJ" ,
+		"VideoPath" : "https://i.imgur.com/598udPm.gif"
+	},
+	{
+		"Shqip" : "FESTOJA" ,
+		"VideoPath" : "https://i.imgur.com/598udPm.gif"
+	},
+	{
+		"Shqip" : "FESTOJE" ,
+		"VideoPath" : "https://i.imgur.com/598udPm.gif"
+	},
+	{
+		"Shqip" : "FESTONTE" ,
+		"VideoPath" : "https://i.imgur.com/598udPm.gif"
+	},
+	{
+		"Shqip" : "FESTONIM" ,
+		"VideoPath" : "https://i.imgur.com/598udPm.gif"
+	},
+	{
+		"Shqip" : "FESTONIT" ,
+		"VideoPath" : "https://i.imgur.com/598udPm.gif"
+	},
+	{
+		"Shqip" : "FESTONIN" ,
+		"VideoPath" : "https://i.imgur.com/598udPm.gif"
+	},
+	{
+		"Shqip" : "RREGULLUAR" ,
+		"VideoPath" : "https://i.imgur.com/PIT5hRu.gif"
+	},
+	{
+		"Shqip" : "RREGULLOJNE " ,
+		"VideoPath" : "https://i.imgur.com/PIT5hRu.gif"
+	},
+	{
+		"Shqip" : "RREGULLONI" ,
+		"VideoPath" : "https://i.imgur.com/PIT5hRu.gif"
+	},
+	{
+		"Shqip" : "RREGULLOJNË" ,
+		"VideoPath" : "https://i.imgur.com/PIT5hRu.gif"
+	},
+	{
+		"Shqip" : "RREGULLOJN" ,
+		"VideoPath" : "https://i.imgur.com/PIT5hRu.gif"
+	},
+	{
+		"Shqip" : "RREGULLOJMË" ,
+		"VideoPath" : "https://i.imgur.com/PIT5hRu.gif"
+	},
+	{
+		"Shqip" : "RREGULLOJM" ,
+		"VideoPath" : "https://i.imgur.com/PIT5hRu.gif"
+	},
+	{
+		"Shqip" : "RREGULLOJME " ,
+		"VideoPath" : "https://i.imgur.com/PIT5hRu.gif"
+	},
+	{
+		"Shqip" : "RREGULLON " ,
+		"VideoPath" : "https://i.imgur.com/PIT5hRu.gif"
+	},
+	{
+		"Shqip" : "RREGULLOJ" ,
+		"VideoPath" : "https://i.imgur.com/PIT5hRu.gif"
+	},
+	{
+		"Shqip" : "RIPARUAR" ,
+		"VideoPath" : "https://i.imgur.com/PIT5hRu.gif"
+	},
+	{
+		"Shqip" : "RIPAROJNE " ,
+		"VideoPath" : "https://i.imgur.com/PIT5hRu.gif"
+	},
+	{
+		"Shqip" : "RIPARONI " ,
+		"VideoPath" : "https://i.imgur.com/PIT5hRu.gif"
+	},
+	{
+		"Shqip" : "RIPAROJN" ,
+		"VideoPath" : "https://i.imgur.com/PIT5hRu.gif"
+	},
+	{
+		"Shqip" : "RIPAROJNË" ,
+		"VideoPath" : "https://i.imgur.com/PIT5hRu.gif"
+	},
+	{
+		"Shqip" : "RIPAROJMË" ,
+		"VideoPath" : "https://i.imgur.com/PIT5hRu.gif"
+	},
+	{
+		"Shqip" : "RIPAROJM" ,
+		"VideoPath" : "https://i.imgur.com/PIT5hRu.gif"
+	},
+	{
+		"Shqip" : "RIPAROJME " ,
+		"VideoPath" : "https://i.imgur.com/PIT5hRu.gif"
+	},
+	{
+		"Shqip" : "RIPARON " ,
+		"VideoPath" : "https://i.imgur.com/PIT5hRu.gif"
+	},
+	{
+		"Shqip" : "RIPAROJ " ,
+		"VideoPath" : "https://i.imgur.com/PIT5hRu.gif"
+	},
+	{
+		"Shqip" : "PERFITUAR " ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PERFITOJNE  " ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PERFITONI " ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PERFITOJN" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PERFITOJNË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PERFITOJMË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PERFITOJM" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PERFITOJME " ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PERFITON " ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PERFITOJ " ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "FITUAR " ,
+		"VideoPath" : "https://i.imgur.com/1NwluuU.gif"
+	},
+	{
+		"Shqip" : "FITOJNE " ,
+		"VideoPath" : "https://i.imgur.com/1NwluuU.gif"
+	},
+	{
+		"Shqip" : "FITONI" ,
+		"VideoPath" : "https://i.imgur.com/1NwluuU.gif"
+	},
+	{
+		"Shqip" : "FITOJN" ,
+		"VideoPath" : "https://i.imgur.com/1NwluuU.gif"
+	},
+	{
+		"Shqip" : "FITOJNË" ,
+		"VideoPath" : "https://i.imgur.com/1NwluuU.gif"
+	},
+	{
+		"Shqip" : "FITOJMË" ,
+		"VideoPath" : "https://i.imgur.com/1NwluuU.gif"
+	},
+	{
+		"Shqip" : "FITOJM" ,
+		"VideoPath" : "https://i.imgur.com/1NwluuU.gif"
+	},
+	{
+		"Shqip" : "FITOJME " ,
+		"VideoPath" : "https://i.imgur.com/1NwluuU.gif"
+	},
+	{
+		"Shqip" : "FITON " ,
+		"VideoPath" : "https://i.imgur.com/1NwluuU.gif"
+	},
+	{
+		"Shqip" : "FITOJ " ,
+		"VideoPath" : "https://i.imgur.com/1NwluuU.gif"
+	},
+	{
+		"Shqip" : "FITOJA" ,
+		"VideoPath" : "https://i.imgur.com/1NwluuU.gif"
+	},
+	{
+		"Shqip" : "FITOJE" ,
+		"VideoPath" : "https://i.imgur.com/1NwluuU.gif"
+	},
+	{
+		"Shqip" : "FITONTE" ,
+		"VideoPath" : "https://i.imgur.com/1NwluuU.gif"
+	},
+	{
+		"Shqip" : "FITONIM" ,
+		"VideoPath" : "https://i.imgur.com/1NwluuU.gif"
+	},
+	{
+		"Shqip" : "FITONIT" ,
+		"VideoPath" : "https://i.imgur.com/1NwluuU.gif"
+	},
+	{
+		"Shqip" : "FITONIN" ,
+		"VideoPath" : "https://i.imgur.com/1NwluuU.gif"
+	},
+	{
+		"Shqip" : "DISKRIMINUAR " ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "DISKRIMINOJNE " ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "DISKRIMINONI " ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "DISKRIMINOJNË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "DISKRIMINOJN" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "DISKRIMINOJMË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "DISKRIMINOJM" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "DISKRIMINOJME " ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "DISKRIMINON " ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "DISKRIMINOJ " ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "NDIHMUAR " ,
+		"VideoPath" : "https://i.imgur.com/DDi1XB9.gif"
+	},
+	{
+		"Shqip" : "NDIHMOJNE " ,
+		"VideoPath" : "https://i.imgur.com/DDi1XB9.gif"
+	},
+	{
+		"Shqip" : "NDIHMONI " ,
+		"VideoPath" : "https://i.imgur.com/DDi1XB9.gif"
+	},
+	{
+		"Shqip" : "NDIHMOJNË" ,
+		"VideoPath" : "https://i.imgur.com/DDi1XB9.gif"
+	},
+	{
+		"Shqip" : "NDIHMOJN" ,
+		"VideoPath" : "https://i.imgur.com/DDi1XB9.gif"
+	},
+	{
+		"Shqip" : "NDIHMOJMË" ,
+		"VideoPath" : "https://i.imgur.com/DDi1XB9.gif"
+	},
+	{
+		"Shqip" : "NDIHMOJM" ,
+		"VideoPath" : "https://i.imgur.com/DDi1XB9.gif"
+	},
+	{
+		"Shqip" : "NDIHMOJME " ,
+		"VideoPath" : "https://i.imgur.com/DDi1XB9.gif"
+	},
+	{
+		"Shqip" : "NDIHMON" ,
+		"VideoPath" : "https://i.imgur.com/DDi1XB9.gif"
+	},
+	{
+		"Shqip" : "NDIHMOJ" ,
+		"VideoPath" : "https://i.imgur.com/DDi1XB9.gif"
+	},
+	{
+		"Shqip" : "PËRKRAHUR" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PERKRAHUR" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PËRKRAHIN" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PERKRAHIN" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PËRKRAHNI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PERKRAHNI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PËRKRAHIM" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PERKRAHIM " ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PËRKRAHË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PERKRAHE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PËRKRAHË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PERKRAH" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "DHURUAR" ,
+		"VideoPath" : "https://i.imgur.com/xN7tUgW.gif"
+	},
+	{
+		"Shqip" : "DHUROJNË" ,
+		"VideoPath" : "https://i.imgur.com/xN7tUgW.gif"
+	},
+	{
+		"Shqip" : "DHUROJN" ,
+		"VideoPath" : "https://i.imgur.com/xN7tUgW.gif"
+	},
+	{
+		"Shqip" : "DHUROJNE" ,
+		"VideoPath" : "https://i.imgur.com/xN7tUgW.gif"
+	},
+	{
+		"Shqip" : "DHURONI" ,
+		"VideoPath" : "https://i.imgur.com/xN7tUgW.gif"
+	},
+	{
+		"Shqip" : "DHUROJMË" ,
+		"VideoPath" : "https://i.imgur.com/xN7tUgW.gif"
+	},
+	{
+		"Shqip" : "DHUROJM" ,
+		"VideoPath" : "https://i.imgur.com/xN7tUgW.gif"
+	},
+	{
+		"Shqip" : "DHUROJME" ,
+		"VideoPath" : "https://i.imgur.com/xN7tUgW.gif"
+	},
+	{
+		"Shqip" : "DHURON" ,
+		"VideoPath" : "https://i.imgur.com/xN7tUgW.gif"
+	},
+	{
+		"Shqip" : "DHUROJ" ,
+		"VideoPath" : "https://i.imgur.com/xN7tUgW.gif"
+	},
+	{
+		"Shqip" : "HUAZUAR" ,
+		"VideoPath" : "https://i.imgur.com/vSjOXys.gif"
+	},
+	{
+		"Shqip" : "HUAZOJNE" ,
+		"VideoPath" : "https://i.imgur.com/vSjOXys.gif"
+	},
+	{
+		"Shqip" : "HUAZONI" ,
+		"VideoPath" : "https://i.imgur.com/vSjOXys.gif"
+	},
+	{
+		"Shqip" : "HUAZOJNË" ,
+		"VideoPath" : "https://i.imgur.com/vSjOXys.gif"
+	},
+	{
+		"Shqip" : "HUAZOJN" ,
+		"VideoPath" : "https://i.imgur.com/vSjOXys.gif"
+	},
+	{
+		"Shqip" : "HUAZOJMË" ,
+		"VideoPath" : "https://i.imgur.com/vSjOXys.gif"
+	},
+	{
+		"Shqip" : "HUAZOJM" ,
+		"VideoPath" : "https://i.imgur.com/vSjOXys.gif"
+	},
+	{
+		"Shqip" : "HUAZOJME" ,
+		"VideoPath" : "https://i.imgur.com/vSjOXys.gif"
+	},
+	{
+		"Shqip": "HUAZOJA",
+		"VideoPath": "https://i.imgur.com/vSjOXys.gif"
+	},
+	{
+		"Shqip" : "HUAZON" ,
+		"VideoPath" : "https://i.imgur.com/vSjOXys.gif"
+	},
+	{
+		"Shqip" : "HUAZOJ" ,
+		"VideoPath" : "https://i.imgur.com/vSjOXys.gif"
+	},
+	{
+		"Shqip" : "HUA" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "BLERË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "BLERE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "BLER" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "BLEJNË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "BLEJN" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "BLEJNE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "BLENI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "BLEJMË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "BLEJM" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "BLEJME" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "BLEN" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "BLEJ" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PËSUAR" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PËSOJN" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PËSOJM" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PESOJN" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PESOJM" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PËSOJNË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PËSONI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PËSOJMË " ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PËSON" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PËSOJ" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PESUAR" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PESOJNE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PESONI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PESOJME " ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PESON" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PESOJ" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "FOTOGRAFUAR" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "FOTOGRAFOJNË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "FOTOGRAFOJN" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "FOTOGRAFOJNE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "FOTOGRAFONI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "FOTOGRAFOJMË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "FOTOGRAFOJM" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "FOTOGRAFOJME" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "FOTOGRAFON" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "FOTOGRAFOJ" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "QEPUR" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "QEPIN" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "QEPNI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "QEPIM" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "QEP" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "ZHVESHUR" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "ZHVESHIN" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "ZHVESHNI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "ZHVESHIM" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "ZHVESH" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "LIDHUR" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "LIDHIN" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "LIDHNI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "LIDHIM" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "LIDH" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "DEPËRTUAR " ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "DEPËRTOJNË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "DEPËRTONI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "DEPERTOJN" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "DEPËRTOJN" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "DEPERTOJM" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "DEPËRTOJM" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "DEPËRTOJMË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "DEPËRTON" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "DEPËRTOJ" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "DEPERTUAR" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "DEPERTOJNE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "DEPERTONI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "DEPERTOJME" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "DEPERTON" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "DEPERTOJ" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "VENDOSUR" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "DEPERTOJ" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "VENDOSUR" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "VENDOSIN" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "VENDOSNI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "VENDOSIM" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "VENDOS" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "ZHVENDOSUR" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "ZHVENDOSIN" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "ZHVENDOSNI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "ZHVENDOSIM" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "ZHVENDOS" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "NGECUR" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "NGECIN" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "NGECNI " ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "NGECIM" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "NGEC" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KËRKUAR" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KERKUAR" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KERKOJNE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KERKOJN" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KËRKOJNË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KËRKOJN" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KERKONI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KËRKONI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KËRKOJM" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KERKOJM" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KËRKOJMË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KERKOJME " ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KËRKON" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KERKON" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KËRKOJ" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KERKOJ " ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "ANALIZUAR " ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "ANALIZOJNË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "ANALIZOJN" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "ANALIZOJNE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "ANALIZONI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "ANALIZOJMË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "ANALIZOJM" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "ANALIZOJME " ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "ANALIZON" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "ANALIZOJ " ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "HARRUAR " ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "HARROJNE " ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "HARRONI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "HARROJNË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "HARROJN" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "HARROJMË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "HARROJM" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "HARROJME" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "HARRON" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "HARROJ" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KRIJUAR" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KRIJOJNE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KRIJOJNË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KRIJOJN" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KRIJONI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KRIJOJMË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KRIJOJM" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KRIJOJME" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KRIJON" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KRIJOJ" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KOPJUAR" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KOPJOJNË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KOPJOJN" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KOPJOJNE " ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KOPJONI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KOPJOJMË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KOPJOJM" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KOPJOJME" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KOPJON" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KOPJOJ " ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "SHTYPUR " ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "SHTYPIN" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "SHTYPNI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "SHTYPIM " ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "SHTYP" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "SHKUAR" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "SHKOJNË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "SHKOJN" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "SHKOJNE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "SHKONI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "SHKOJMË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "SHKOJM" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "SHKOJME" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "SHKON" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "SHKOJ" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "SHKOJA" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "SHKOJE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "SHKONTE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "SHKONIM" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "SHKONIT" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "SHKONIN" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "ARDHUR" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "VIJNE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "VIJNË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "VIJN" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "VINI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "VIJMË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "VIJM" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "VIJME" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "VJEN" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "VIJ" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "ARRITUR" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "ARRIJNË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "ARRIJN" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "ARRIJNE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "ARRINI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "ARRIJMË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "ARRIJM" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "ARRIJME" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "ARRIN" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "ARRIJ" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "MBUSHUR" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "MBUSHIN" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "MBUSHNI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "MBUSHIM" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "MBUSH" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "DËSHTUAR" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "DESHTUAR" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "DËSHTOJN" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "DËSHTOJNË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "DESHTOJN" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "DESHTOJNE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "DËSHTONI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "DESHTONI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "DËSHTOJM" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "DËSHTOJMË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "DESHTOJM" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "DESHTOJME " ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "DESHTON" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "DËSHTON" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "DËSHTOJ" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "DESHTOJ" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "MOTIVUAR" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "MOTIVOJNË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "MOTIVOJN" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "MOTIVOJNE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "MOTIVONI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "MOTIVOJMË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "MOTIVOJM" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "MOTIVOJME" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "MOTIVON" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "MOTIVOJ" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "BESUAR" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "BESOJNË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "BESOJN" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "BESOJNE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "BESONI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "BESOJMË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "BESOJM" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "BESOJME" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "BESON" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "BESOJ" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "SHPIKUR" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "SHPIKIN" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "SHPIKNI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "SHPIKIM" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "SHPIK" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "SHPIFUR" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "SHPIFIN" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "SHPIFNI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "SHPIFIM" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "SHPIF" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "ZBULUAR" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "ZBULOJNË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "ZBULOJN" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "ZBULOJNE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "ZBULONI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "ZBULOJMË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "ZBULOJM" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "ZBULOJME" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "ZBULON" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "ZBULOJ" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "MBULUAR" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "MBULOJNË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "MBULOJN" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "MBULOJNE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "MBULONI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "MBULOJMË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "MBULOJM" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "MBULOJME" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "MBULON" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "MBULOJ" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "NGROHUR" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "NGROHIN" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "NGROHNI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "NGROHIM" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "NGROH" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "FTOHUR" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "FTOHIN" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "FTOHNI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "FTOHIM " ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "FTOH" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "LËMUAR" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "LEMUAR" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "LEMOJN" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "LËMOJN" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "LËMOJNË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "LEMOJNE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "LËMONI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "LEMONI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "LËMOJM" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "LËMOJMË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "LEMOJM" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "LEMOJME" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "LËMON" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "LEMON" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "LËMOJ" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "LEMOJ" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "RRËFYER" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "RREFYER" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "RRËFEJNË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "RRËFEJN" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "RREFEJN" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "RREFEJNE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "RRËFENI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "RREFENI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "RRËFEJMË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "RRËFEJM" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "RREFEJM" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "RREFEJME" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "RRËFEN" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "RREFEN" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "RRËFEJ" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "RREFEJ" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "GËNJYER" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "GENJYER" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "GËNJEJNË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "GËNJEJN" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "GENJEJN" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "GENJEJNE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "GËNJENI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "GENJENI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "GËNJEJMË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "GËNJEJM" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "GENJEJM" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "GENJEJME" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "GËNJEN" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "GENJEN" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "GËNJEJ" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "GENJEJ" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "DASHURUAR" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "DASHUROJNË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "DASHUROJN" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "DASHUROJNE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "DASHURONI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "DASHUROJMË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "DASHUROJM" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "DASHUROJME" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "DASHURON" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "DASHUROJ" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "URRYER" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "URREJNË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "URREJN" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "URREJNE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "URRENI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "URREJMË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "URREJM" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "URREJME" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "URREN" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "URREJ" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "GËZUAR" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "GEZUAR" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "GËZOHEN" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "GEZOHEN" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "GËZOHENI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "GEZOHENI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "GËZOHEMI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "GEZOHEMI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "GËZOHET" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "GEZOHET" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "GËZOHESH" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "GEZOHESH" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "GËZOHEM" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "GEZOHEM" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "NERVOZUAR" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "NERVOZOHEN" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "NERVOZOHENI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "NERVOZOHEMI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "NERVOZOHET " ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "NERVOZOHESH " ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "NERVOZOHEM" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "ZGJEDHUR" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "ZGJEDHIN" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "ZGJEDHNI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "ZGJEDHIM" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "ZGJEDH" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "QARË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "QARE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "QAR" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "QAJN" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "QAJNË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "QAJNE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "QANI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "QAJMË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "QAJM" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "QAJME" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "QAN" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "QANE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "QANË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "QAJ" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "QESHUR" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "QESHIN" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "QESHNI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "QESHIM" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "QESH" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PËRTUAR" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PËRTOJN" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PERTOJN" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PËRTOJNË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PËRTONI " ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PËRTOJM" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PERTOJM" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PËRTOJMË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PËRTON" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PËRTOJ" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PERTUAR" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PERTOJNE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PERTONI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PERTOJME" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PERTON" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PERTOJ" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "RËN" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "REN" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "RËNË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "RENE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "BIEN" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "BINI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "BIEM" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "BIE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "MBYLLUR" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "MBYLLIN" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "MBYLLNI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "MBYLLIM" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "MBYLL" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "LINDUR" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "LINDIN" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "LINDNI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "LINDIM" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "LIND" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "SJELLUR" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "SJELLIN" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "SJELLNI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "SJELLIM" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "SJELL " ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "HAPUR" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "HAPIN" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "HAPNI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "HAPIM" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "HAP" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "UDHEHEQUR " ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "UDHËHEQUR" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "UDHËHEQIN" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "UDHEHEQIN" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "UDHËHEQNI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "UDHEHEQNI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "UDHËHEQIM" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "UDHEHEQIM" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "UDHËHEQ" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "UDHEHEQ" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "ZEVENDESOJN" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "ZEVENDESOJM" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "ZËVËNDËSOJM" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "ZËVËNDËSOJN" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "ZEVENDESOJN" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "ZËVËNDËSUAR" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "ZËVËNDËSOJNË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "ZËVËNDËSONI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "ZËVËNDËSOJMË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "ZËVËNDËSON" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "ZËVËNDËSOJ" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "ZËVËNDËSUAR" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "ZEVENDESOJNE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "ZEVENDESONI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "ZEVENDESOJME" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "ZEVENDESON" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "ZEVENDESOJ" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "VIZATUAR" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "VIZATOJNË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "VIZATOJN" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "VIZATOJNE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "VIZATONI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "VIZATOJMË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "VIZATOJM" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "VIZATOJME" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "VIZATON" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "VIZATOJ" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "MËSUAR" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "MESUAR" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "MESOJN" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "MËSOJN" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "MËSOJNË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "MESOJNE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "MËSONI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "MESONI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "MESOJM" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "MËSOJM" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "MËSOJMË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "MESOJME" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "MËSON" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "MESON" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "MËSOJ" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "MESOJ " ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "EDUKUAR" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "EDUKOJN" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "EDUKOJNË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "EDUKOJNE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "EDUKONI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "EDUKOJM" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "EDUKOJMË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "EDUKOJME" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "EDUKON" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "EDUKOJ" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "HANË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "HANE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "HANI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "HAMË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "HAME " ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "HA" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PIRË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PIR" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PIRE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PINË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PIN" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PINE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PINI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PIMË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PIM" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PIME" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "NOTOJNË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "NOTOJN" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "NOTOJNE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "NOTONI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "NOTOJMË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "NOTOJM" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "NOTOJME" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "NOTON" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "NOTOJ" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "FOLUR" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "FLASIN" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "FLISNI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "FLASIM" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "FLET" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "FLAS" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "SHIKUAR" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "SHIKOJNË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "SHIKOJN" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "SHIKOJNE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "SHIKONI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "SHIKOJMË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "SHKOJM" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "SHIKOJME" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "SHIKON" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "SHIKOJ" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "DASHUR" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "DUAN" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "DONI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "DUAM" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "DO" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "DUA" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "DOJA" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "BËR" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "BER" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "BËRË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "BERE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "BEJN" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "BËJN" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "BËJNË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "BEJNE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "BËNI" ,
+		"VideoPath" : "linku"
+	},
+
+	{
+		"Shqip" : "BENI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "BEJM" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "BËJM" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "BËJMË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "BEJME" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "BËN" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "BEN" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "BËJ" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "BEJ" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "VESHUR" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "VISHEN" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "VISHENI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "VISHEMI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "VISHET" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "VISHESH" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "VISHEM" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KUJDESUR" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KUJDESEN" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KUJDESENI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KUJDESEMI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KUJDESET" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KUJDESESH " ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KUJDESEM" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PASTRUAR" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PASTROJNË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PASTROJN" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PASTROJNE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PASTRONI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PASTROJMË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PASTROJM" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PASTROJME" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PASTRON " ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PASTROJ" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "LUAJTUR" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "LUAJN" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "LUAJNË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "LUAJNE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "LUANI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "LUAJM" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "LUAJMË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "LUAJME" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "LUAN" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "LUAJ" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KËNDUAR" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KENDUAR" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KËNDOJN" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KËNDOJNË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KENDOJNE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KËNDONI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KENDONI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KENDOJM" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KËNDOJM" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KËNDOJMË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KENDOJME" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KËNDON" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KENDON" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KËNDOJ" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KENDOJ" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "MENDUAR" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "MENDOJNË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "MENDOJN" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "MENDOJNE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "MENDONI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "MENDOJMË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "MENDOJM" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "MENDOJME" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "MENDON" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "MENDOJ" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "IMAGJINUAR" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "IMAGJINOJN" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "IMAGJINOJNË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "IMAGJINOJNE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "IMAGJINONI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "IMAGJINOJM" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "IMAGJINOJMË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "IMAGJINOJME" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "IMAGJINON" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "IMAGJINOJ" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "SHKRUAR" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "SHKRUAJNË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "SHKRUAJN" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "SHKRUAJNE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "SHKRUANI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "SHKRUAJM" ,
+		"VideoPath" : "linku"
+	},
+	
+	{
+		"Shqip" : "SHKRUAN" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "SHKRUAJ" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "LEXUAR" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "LEXOJNË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "LEXOJNE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "LEXOJN" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "LEXONI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "LEXOJM" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "LEXON" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "LEXOJ" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PUNUAR" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PUNOJNE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PUNOJN" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PUNOJNË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PUNONI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PUNOJM" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PUNON" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PUNOJ" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "JANË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "JAN" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "JANE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "JENI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "JEMI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "ESHT" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "ËSHTË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "ESHTE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "JE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "JAM" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "DO TË KENE " ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "DO TË KENI " ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "DO TE KENE " ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "DO TE KENE " ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "DO TE KENI " ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "DO TË KEMI " ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "DO TË KETË " ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "DO TË KESH " ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "DO TE KEMI " ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "DO TE KETE " ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "DO TE KESH " ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "DO TË KEM" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "DO TE KEM " ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PASUR" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PATËN" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PATEN " ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PATËT" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PATET" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PATËM" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PATEM" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PATI " ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PATE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PATA" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KISHIN" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KISHIT" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KISHIM" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KISHTE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KISHE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KISHA" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KANË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KAN" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KANE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KENI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KEMI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KA" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KAM" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "SHUMËS" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "SHUMES " ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "NJËJËS" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "NJEJES" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "ATO" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "ATA" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "JU" ,
+		"VideoPath" : ""
+	},
+	{
+		"Shqip" : "NE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "AJO" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "AI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "TI" ,
+		"VideoPath" : ""
+	},
+	{
+		"Shqip" : "UNË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "UN" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "UNE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PRESIDENT" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PRESIDENTI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "NJËSOJ" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "NJESOJ" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KABLLO" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "USHTARI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "USHTARËT" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "USHTARET" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "USHTAR" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "RRUGË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "RRUG" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "RRUGE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "ADRESE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "ADRES" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "ADRESË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "GJYKATËS" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "GJYKATES" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KUJDES" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "DREJTORI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "DREJTOR " ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "ZJARRIT" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "ZJARRI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "ZJARR" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "DIMËR" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "VJESHTË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "VERË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PRANVERË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "DIMER" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "VJESHTE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "VERE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PRANVERE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "DIMRI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "VJESHTA" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "VERA" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PRANVERA" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "MUAJ" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "MUAJI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "MUAJT" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "JAVE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "JAV" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "JAVË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "JAVA " ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "NAT" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "NATË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "NATA" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "DAT" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "DATË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "DATE " ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "DIT" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "DITË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "DITE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "TRAJNIM " ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "GJIMNAZ" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "GJIMNAZI " ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "DIPLOM" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "DIPLOMË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "DIPLOME" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "NXËNËSI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "NXËNËSJA" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "NXENESI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "NXENESJA" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "NXENESIT" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "NXËNËSIT" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "NXËNËS" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "NXENES" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KLASA" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "BARAZIM " ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "OBORRI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "OBORR" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KOPËSHTI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KOPESHTI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KOPESHT" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KOPËSHT" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PJESËTIM" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PJESETIM " ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "SHUMËZIM" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "SHUMEZIM" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "VIZORET" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "VIZORE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "MINUS" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PLUS" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "MIKROSKOPI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "MIKROSKOP" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "STILOGRAFI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "STILOGRAF" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "SHPUZË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "SHPUZ" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "SHPUZE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "SHKUMSI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "SHKUMËSI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "SHKUMESI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "TABELA " ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "TABELË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "TABELE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "FLETORE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "CANTA" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "ÇANTA" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "ÇANT" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "ÇANTË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "CANTE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "LAPSI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "LAPS" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KIMIKU" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KIMIK" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PATIKET" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PATIKE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "CIZMET" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "ÇIZMET" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "ÇIZME" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "CIZME" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "SANDALET" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "SANDALE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "FLOKU" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "FLOKËT" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "FLOKË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "FLOKET" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "VESHET" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "VESHËT" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "VESHI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "GOJ" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "GOJE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "GOJË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "GOJA" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "SYT" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "SYTE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "SYTË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "SYRI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "GJUHË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "GJUH" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "GJUHE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "GJUHËT" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "GJUHA" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "SHPINE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "SHPIN" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "SHPINË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "SHPINA" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "BARK" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "BARKU" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "DORE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "DOR" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "DORË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "DORA" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KËMBËT" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KEMBET" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KËMBA" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KEMBA" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KOKA" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "SYZE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "ORA" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "DOREZAT" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "SHALLI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KAPELET" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KAPELE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PESHQIRËT" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PESHQIRA" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PESHQIRI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "ÇORAPE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "ÇORAPET" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "CORAPET" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "CORAPE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "FUSTANET" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "FUSTANI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "FUSTAN" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KËMISHAT" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KEMISHAT" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KËMISHA" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KEMISHA" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KOSTUMET" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KOSTUMI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KOSTUM" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "DUKSAT" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "DUKSI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "DUKS" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "RRIPAT" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "RRIPI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "RRIP" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "RROLLK" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "RROLLKË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "RROLLKE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "XHAKET" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "XHAKETE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "XHAKETË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PALLTOT" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PALLTO" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PANTOLLONAT" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PANTOLLONA" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "BLUZAT" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "BLUZË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "BLUZËN" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "BLUZEN" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "BLUZE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "RROBA" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "RROBAT" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "TUALET" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "TUALETI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "BANJO" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "BANJOT" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "FILXHANI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "FILXHAN" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "THIK" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "THIKE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "THIKË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "THIKA" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "GOTË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "GOT" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "GOTE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "GOTA" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "GOTAT" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "LUGËT" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "LUGET" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "LUGA" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PIRUNËT" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PIRUNET" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PIRUN" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PIRUNI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PJATË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PJATE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PJAT" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PJATA" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PJATAT" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "GATUAJ " ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "TRYEZË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "TRYEZE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "TRYEZA" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "DRITË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "DRITE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "DRIT" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "DRITAT" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "DRITA" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "JORGAN" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "JORGANI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "JORGANIN" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "SHTRETËRIT" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "SHTRETERIT" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "SHTRATI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "SHTRAT" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "FSHESË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "FSHES" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "FSHESE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "FSHESAT" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "FSHESA" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "HEKUR" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PROBLEMET" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PROBLEM" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PROBLEMI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "TELEVIZORI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "TELEVIZOR" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "RADIATORËT" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "RADIATORET" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "RADIATOR" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "RADIATORI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KUZHINA" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KUZHINË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KUZHIN" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KUZHINE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "DOLLAPI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "DOLLAP" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "NDËRPRERËSIT" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "NDERPRERESIT" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "NDËRPRERËSI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "NDERPRERESI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "NDËRPRERËS" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "NDERPRERES" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PRIZË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PRIZ" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PRIZA" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PRIZE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PRIZAT" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KORIDORET" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KORIDOR" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "BALLKONI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "BALLKON" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "DRITARJA" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "DRITARET" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "DRITARE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "DYERT" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "DERË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "DER" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "DERE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "DERA" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "ZILET" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "ZILE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "ZILJA" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "HUA" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KUSUR " ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PAGESAT" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PAGESË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PAGESE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PAGES" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "SHKALLËT" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "SHKALLË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "SHKALLE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "SHKALLET" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "SHKALL" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "ASHENSORIN" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "ASHENSOR" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KOJSHI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KOMSHI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "FQINJËT" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "FQINJET" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "FQINJË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "FQINJE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "FQINJ" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "CAJ" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "ÇAJ" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KAFE " ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KOMPJUTERAT" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KOMPJUTER" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KOMPJUTERI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "FAQE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "FAQJA" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "ULËSE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "ULËSJA" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "ULESJA" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "ULESE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "BANKA" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "BANKË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "BANKE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "BANK" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KURSI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "SHKOLLË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "SHKOLL" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "SHKOLLE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "SHKOLLA" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "NGJYRA" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "SHKRONJAT" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "SHKRONJA" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "TELEFONI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "FARAT" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "FARA" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "LULEDIELLI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "TRËNDAFILI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "TRËNDAFILAT" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "TRENDAFILI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "TRENDAFILAT" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "TRËNDAFIL" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "TRENDAFIL" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "LULE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "LULET" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "LULJA" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KËNGËTARIN" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KENGETARIN" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KËNGËTAR" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KËNGËTARI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KENGETARI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "ZDRUKTHTAR" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "ZDRUKTHETAR" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "ZDRUKTHETARI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "ZDRUKTHTARI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "ZDRUKTHËTAR" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "ZDRUKTHËTARI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "RROBAQEPËS" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "RROBAQEPËSI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "RROBAQEPESI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "RROBAQEPES" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "DHIA" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "CJAPI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "UJQËRIT" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "UJQERIT" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "UJKU" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "GJIRAFË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "GJIRAF" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "GJIRAFE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "GJIRAFËN" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "GJIRAFËS" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "GJIRAFEN" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "GJIRAFES" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "GJIRAFA" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "DELES" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "DELET" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "DELEN" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "DELJA" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "MIZË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "MIZE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "MIZ" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "MIZËN" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "MIZEN" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "MIZËS" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "MIZES" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "MIZA" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "BLETËN" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "BLETËS" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "BLETË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "BLET" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "BLETEN" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "BLETES" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "BLETE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "HARDHUCË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "HARDHUC" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "HARDHUC" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "HARDHUCA" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "GOMAR" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "GOMARIN" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "GOMARIT" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "GOMARI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KUAJTË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KUAJTE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KUAJT" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KALI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "LOPËVE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "LOPËS" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "LOPËT" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "LOPEVE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "LOPES" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "LOPET" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "LOPË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "LOPA" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "MAJMUNËT" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "MAJMUNË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "MAJMUN" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "MAJMUNI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "MAJMUNAT" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "MAJMUNET" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "DRERËT" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "DRERET" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "DRERI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "ARINJTË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "ARI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "ARIU" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "ARINJTE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "TIGRAT" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "TIGER" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "TIGËR" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "TIGRI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "LUANESHA" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "LUANESHAT" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "LUANËT" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "LUAN" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "LUANI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "LUANET" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "ELEFANTËT" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "ELEFANTET" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "ELEFANTI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "ELEFANT" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "MACES" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "MACEN" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "MACET" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "MACE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "MACJA" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "QENTË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "QENT" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "QENTE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "QEN" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "QENIT" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "QENIN" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "QENI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "ZEBËR" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "ZEBRAT" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "ZEBER" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "ZEBRA" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KARIKUESIN" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KARIKUESI " ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "SEMAFORIN" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "SEMAFORI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "SEMAFORAT" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : ".ROZË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "ROZ" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "ROZE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "VJOLLCË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "VJOLLC" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "VJOLLCE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "E HIRT" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "E HIRTE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "E HIRTË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "GRI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KAFE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "E ZEZË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "E ZEZE " ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "E BARDHË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "E BARDHE " ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "E BARDH" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "E GJELBËR" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "E GJELBER" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "E KUQE " ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PORTOKALLI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "E KUQE " ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "BLU" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "E KALTËR" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "E KALTER " ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KONCEPTI " ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "SERIAL" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "SERIALET" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "SERIALI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "NË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "NE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "INTERVISTË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "INTERVIST" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "INTERVISTE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "INTERVISTAT" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "INTERVISTA" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "FILM" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "FILMA" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : ".=FILMAT" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "FILMI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "DOKUMENTARË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "DOKUMENTARE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "DOKUMENTAR" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "DOKUMENTARËT" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "DOKUMENTARET" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "DOKUMENTARI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "LIBËR" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "LIBER" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "LIBRAT" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "LIBRI" ,
+		"VideoPath" : "https://i.imgur.com/vSjOXys.gif"
+	},
+	{
+		"Shqip" : "KENGE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KËNGË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KËNG" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KËNGËS" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KËNGËN" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KENG" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KENGEN" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KENGES" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KËNGA" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KENGA" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "BISEDËN" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "BISEDEN" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "BISEDË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "BISEDE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "BISED" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "BISEDA" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "ALFABET" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "ALFABETI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KISHË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KISH" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KISHE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KISHA" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "XHAMI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "XHAMIA" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "ATEISTE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "ATEIST" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "BUDIST" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "BUDISTE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "BUDIZMI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KRISHTERE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KRISHTER" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KRISHTERIZMI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "ISLAME" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "ISLAM" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "ISLAMI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "RELIGJIONI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "RELIGJIONET" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "RELIGJION" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "RRJETE SOCIALE " ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "RRJET SOCIAL" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "RRJETET SOCIALE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "BORË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "BOR" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "BORE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "BORA" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "SHIRAT" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "SHI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "SHIU" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "STUHITE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "STUHITË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "STUHI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "STUHIT" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "STUHIA" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "TËRMETET" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "TËRMETI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "TERMETET" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "TERMETI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "TERMET" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "TËRMET" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "HARTAT" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "HARTA" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "GLOB" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "GLOBI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KONTINENTET" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KONTINENT" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KONTINENTI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KONTINENTIN" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KRYEQYTET" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KRYEQYTETI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KRYEQYTETET" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KRYEQYTETIT" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "FSHATRAT " ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "FSHATI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "FSHAT" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "QYTETET" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "QYTET" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "QYTETI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KOSOVË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KOSOVE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KOSOV" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KOSOVEN" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KOSOVËN" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KOSOVA" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "SHTETET" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "SHTETI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "SHTET" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KINEMASE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KINEMAS" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KINEMASË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KINEMAN" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KINEMANE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KINEMANË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KINEMA" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KINEMAJA " ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "BIBLOTEK" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "BIBLOTEKE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "BILOTEKËN" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "BIBLOTEKË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "BIBLOTEKA" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "TEATËR" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "TEATRI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "TEATRIN" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "MUZEUN" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "MUZEU" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "MATEMATIKË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "MATEMATIK" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "MATEMATIKEN" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "MATEMATIKËN" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "MATEMATIKE " ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "GJEOGRAFINË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "GJEOGRAFIN" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "GJEOGRAFINE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "GJEOGRAFI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "MUZIKË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "MUZIKËN" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "MUZIKËS" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "MUZIK" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "MUZIKE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "MUZIKEN" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "MUZIKES" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "HISTORINË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "HISTORINE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "HISTORIN" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "HISTORI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KIMINË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KIMIN" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KIMINE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KIMI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "BIOLOGJINË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "BIOLOGJIN" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "BIOLOGJINE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "BIOLOGJI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "FIZIKË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "FIZIKËN" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "FIZIK" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "FIZIKE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "FIZIKEN" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "FANTA" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "COLA " ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "BIOLOG" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "BIOLOGUN" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "BIOLOGU" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "BIOLOGUT" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "BIOLOGE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "BIOLOGES" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "BIOLOGEN" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "AKTORE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "AKTORES" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "AKTOREN" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "AKTOR" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "AKTORI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "AKTORIT" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "AKTORIN" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PIKTORJA" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PIKTORES" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PIKTOREN" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PIKTORE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PIKTOR" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PIKTORI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PIKTORIN" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PIKTORIT" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "INFERMIERJA" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "INFERMIERE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "INFERMIERES" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "INFERMIEREN" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "INFERMIER" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "INFERMIERI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "INFERMIERIN" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "INFERMIERIT" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "ELEKTRICIST " ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "ELEKTRICISTI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "ELEKTRICISTIN" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "ELEKTRICISTIT" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "MEKANIK" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "MEKANIKU" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "MEKANIKUN" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "MEKANIKUT" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "MJEK" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "MJEKU" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "MJEKUT" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "MJEKUN" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PROFESOR" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PROFESORI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "MESUESIT" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "MESUESIN" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "MESUESI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "MESUES" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "MËSUESI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "MËSUES" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "MËSUESIN" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "MËSUESIT" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "MJALTË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "MJALT" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "MJALTE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "MJALTA" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "AKULLORET" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "AKULLORE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "BAKLLAVA " ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "COKOLLATAT" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "COKOLLATA" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "COKOLLATE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "ÇOKOLLATË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "ÇOKOLLATA" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "ÇOKOLLATAT" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "ÇOKOLLATE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "EMBELSIRAT" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "ËMBËLSIRAT" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "ËMBËLSIRA" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "EMBELSIRA" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "ËMBËLSIRË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "EMBELSIRE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "99" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "NËNTËDHJETË E NËNTË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "NENTEDHJETE E NENTE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "NENTEDHJETE E TETE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "NËNTËDHJETË E TETË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "98" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "NENTEDHJETE E SHTATE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "NËNTËDHJETË SHTATË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "97" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "96" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "NËNTËDHJETË  E GJASHTË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "NENTEDHJETE GJASHTE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "95" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "NËNTËDHJETË E PESË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "NENTEDHJETE E PESE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "94" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "NËNTËDHJETË E KATËR" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "NENTEDHJETE E KATER" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "93" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "NËNTËDHJETË E TRE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "NENTEDHJETE E TRE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "92" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "NËNTËDHJETË E DY" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "NENTEDHJETE E DY" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "NENTEDHJETE E NJE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "NËNTËDHJETË E NJË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "91" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "NENTEDHJETE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "NËNTËDHJETË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "90" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "89" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "TETËDHJETË E NËNTË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "TETEDHJETE E NENTE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "88" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "TETËDHJETË E TETË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "TETEDHJETE E TETE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "87" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "TETËDHJETË E SHTATË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "TETEDHJETE E SHTATE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "86" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "TETËDHJETË E GJASHTË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "TETEDHJETE E GJASHTE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "85" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "TETËDHJETË E PESË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "TETEDHJETE E PESE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "84" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "TETËDHJETË E KATËR" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "TETEDHJETE E KATER" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "83" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "TETËDHJETË E TRE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "TETEDHJETE E TRE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "82" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "TETËDHJETË E DY" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "TETEDHJETE E DY" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "81" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "TETËDHJETË E NJË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "TETEDHJETE E NJE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "80" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "TETËDHJETË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "TETEDHJETE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "79" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "SHTATËDHJETË E NËNTË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "SHTATEDHJETE E NENTE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "78" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "SHTATËDHJETË E TETË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "SHTATEDHJETE E TETE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "77" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "SHTATËDHJETË  E SHTATË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "SHTATEDHJETE E SHTATE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "76" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "SHTATËDHJETË E GJASHTË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "SHTATEDHJETE E GJASHTE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "75" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "SHTATËDHJETË E PESË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "SHTATEDHJETE E PESE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "74" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "SHTATËDHJETË E KATËR" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "SHTATEDHJETE E KATER" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "73" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "SHTATËDHJETË E TRE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "SHTATEDHJETE E TRE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "72" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "SHTATËDHJETË E DY" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "SHTATEDHJETE E DY" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "71" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "SHTATËDHJETË E NJË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "SHTATEDHJETE E NJE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "70" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "SHTATËDHJETË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "SHTATEDHJETE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "69" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "GJASHTËDHJETË E NËNTË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "GJASHTEDHJETE E NENTE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "68" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "GJASHTËDHJETË E TETË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "GJASHTEDHJETE E TETE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "67" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "GJASHTËDHJETË E SHTATË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "GJASHTEDHJETE E SHTATE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "66" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "GJASHTËDHJETË E GJASHTË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "GJASHTEDHJETE E GJASHTE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "65" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "GJASHTËDHJETË E PESË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "GJASHTEDHJETE E PESE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "64" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "GJASHTËDHJETË E KATËR " ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "GJASHTEDHJETE E KATER" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "63" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "GJASHTËDHJETË E TRE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "GJASHTEDHJETE E TRE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "62" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "GJASHTËDHJETË E DY" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "GJASHTEDHJETE E DY" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "61" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "GJASHTËDHJETË E NJË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "GJASHTEDHJETE E NJE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "60" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "GJASHTËDHJETË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "GJASHTEDHJETE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "59" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PESËDHJETË E NËNTË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PESEDHJETE E NENTE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "58" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PESËDHJETË E TETË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PESEDHJETE E TETE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "57" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PESËDHJETË E SHTATË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PESEDHJETE E SHTATE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "56" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PESËDHJETË E GJASHTË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PESEDHJETE E GJASHTE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "55" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PESËDHJETË E PESË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PESEDHJETE E PESE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "54" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PESËDHJETË E KATËR" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PESEDHJETE E KATER" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "53" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PESËDHJETË E TRE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PESEDHJETE E TRE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "52" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PESËDHJETË E DY" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PESEDHJETE E DY" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "51" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PESËDHJETË E NJË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PESEDHJETE E NJE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "50" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PESEDHJETE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PESËDHJETË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "49" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KATËRDHJETË E NËNTË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KATERDHJETE E NENTE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "48" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KATËRDHJETË E TETË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KATERDHJETE E TETE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "47" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KATËRDHJETË E SHTATË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KATERDHJETE E SHTATE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "46" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KATËRDHJETË E GJASHTË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KATERDHJETE E GJASHTE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "45" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KATËRDHJETË E PESË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KATERDHJETE E PESE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "44" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KATËRDHJETË E KATER " ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KATERDHJETE E KATER" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "43" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KATËRDHJETË E TRE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KATERDHJETE E TRE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "42" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KATËRDHJETË E DY" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KATERDHJETE E DY" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "41" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KATËRDHJETË E NJË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KATERDHJETE E NJE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "40" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KATERDHJETE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KATËRDHJETË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "39" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "TRIDHJETË E NËNTË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "TRIDHJETE E NENTE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "38" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "TRIDHJETË E TETË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "TRIDHJETE E TETE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "37" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "TRIDHJETË E SHTATË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "TRIDHJETE E SHTATE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "36" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "TRIDHJETË E GJASHTË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "TRIDHJETE E GJASHTE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "35" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "TRIDHJETË E PESË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "TRIDHJETE E PESE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "34" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "TRIDHJETË E KATËR" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "TRIDHJETE E KATER" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "33" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "TRIDHJETË E TRE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "TRIDHJETE E TRE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "32" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "TRIDHJETË E DY" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "TRIDHJETE E DY" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "31" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "TRIDHJETË E NJË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "TRIDHJETE E NJE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "30" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "TRIDHJETE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "TRIDHJETË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "29" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "NJËZET E NËNTË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "NJEZET E NENTE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "28" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "NJËZET E TETË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "NJEZET E TETE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "27" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "NJËZET E SHTATË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "NJEZET E SHTATE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "26" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "NJËZET E GJASHTË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "NJEZET E GJASHTE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "25" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "NJËZET E PESË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "NJEZET E PESE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "24" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "NJËZET E KATËR" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "NJEZET E KATER" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "23" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "NJËZET E TRE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "NJEZET E TRE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "22" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "NJËZET E DY" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "NJEZET E DY" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "21" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "NJËZET E NJË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "NJEZET E NJE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "20" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "NJËZET" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "NJEZET" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "19" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "NËNTËMBËDHJETË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "NENTEMBEDHJETE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "18" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "TETËMBËDHJETË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "TETEMBEDHJETE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "17" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "SHTATËMBËDHJETË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "SHTATEMBEDHJETE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "16" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "GJASHTËMBËDHJETË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "GJASHTEMBEDHJETE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "15" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PESËMBËDHJETË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PESEMBEDHJETE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "14" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KATËRMBËDHJETË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KATERMBEDHJETE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "13" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "TREMBËDHJETË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "TREMBEDHJETE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "12" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "DYMBËDHJETË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "DYMBEDHJETE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "11" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "NJËMBËDHJETË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "NJEMBEDHJETE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "MILIARDË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "MILIARDE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "MILIARD" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "MILION" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "MIJË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "MIJ" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "MIJE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "MIJË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "10" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "DHJETË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "DHJETE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "DHJET" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "NËNTË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "9" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "NENTE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "NENT" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "TETË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "TETE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "TET" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "8" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "SHTATË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "SHTATE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "SHTAT" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "7" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "6" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "GJASHTË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "GJASHTE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "GJASHT" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "5" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PESË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PES" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PESE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "4" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KATËR" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KATER" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "3" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "TRE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "2" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "DY" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "1" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "NJË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "NJE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : " DIELËN" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : " DIELEN" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "SHTUNEN" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "SHTUNËN" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PREMTEN" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "ENJTEN" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "MËRKURËN" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : " MERKUREN" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "MARTËN" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "MARTEN" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "HENEN" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "HËNËN" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "E DIEL " ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "E SHTUNE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "E PREMTE " ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "E ENJTE " ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "E MERKURE " ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "E MARTE " ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "E SHTUNË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "E MËRKURË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "E MARTË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "E HËNË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "E HENE " ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "E DIELE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "E DIELË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "DHJETOR" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "NËNTOR" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "NENTOR" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "TETOR " ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "SHTATOR" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "GUSHT " ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KORRIK" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "QERSHOR " ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "MAJ" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PRILL " ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "MARS " ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "SHKURT " ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "JANAR" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "GRURI " ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "GRUR" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "MISËR" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "MISER" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "MISRI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "GESHTENJAT" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "GESHTENJA" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "GËSHTENJAT" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "GËSHTENJA" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "LAJTHITË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "LAJTHITE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "LAJTHI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "ARRË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "ARRE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "ARRA" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "ARRAT" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "ARR" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "LIMON " ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "LIMONI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "LIMONAT" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PORTOKAJTË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PORTOKALLI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PORTOKALL" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "MANDARINË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "MANDARIN" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "MANDARINA" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "MANDARINAT" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "BANANET" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "BANANE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "BANANJA" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KUMBULL" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KUMBULLA" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KUMBULLAT" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PJEPERI " ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "SHALQIJTË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "SHALQIJTE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "SHALQIJT" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "SHALQI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "SHALQIRI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PJESHKË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PJESHK" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PJESHKE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PJESHKA" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PJESHKAT" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "DREDHEZA " ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "DREDHËZAT" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "DREDHEZAT" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "DREDHËZA" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "DREDHËZ" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "DREDHEZ" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "QERSHITË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "QERSHI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "QERSHITE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "QERSHIT" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "RRUSHI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "RRUSH" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "MOLLË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "MOLLA" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "MOLL" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "MOLLAT" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "DARDHË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "DARDHE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "DARDHA" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "DARDHAT" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "DARDH" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "FRUT" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "FRUTA" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "FRUTAT" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KERPUDHAT " ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KERPUDHA" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KËRPUDHA" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KËRPUDHAT" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "ORIZI " ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "ORIZ" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "SPINAQ " ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "SPINAQI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "FASULET " ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "FASULE " ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PATATE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PATATET" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PATATJA" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "LAKËR" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "LAKER" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "SPECAT " ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "SPECA" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KARROTA" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KARROTEN" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KARROTAT" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KARROTËN" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KARROTË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KARROTE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KARROT" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "QEPË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "QEPËT" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "QEPET" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "QEPE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "QEPA" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "QEP" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "TRANGULL" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "TRANGULLI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "TRANGUJT" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KASTRAVEC" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KASTRAVECI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "DOMATET " ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "DOMATJA" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "DOMATE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PERIME " ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PEMË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PEM" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PEME" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KUSH" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "TE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "TË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "ÇFARË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "ÇFARE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "CFARË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "QFARE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "QFARË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "CFAR" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "CFARE " ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "SI " ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KUR " ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KU " ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "TË LUTEM" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "TE LUTEM " ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "MË VJEN KEQ" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "ME VJEN KEQ " ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "MË FAL" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "M’FAL" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "MFAL" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "ME FAL " ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PSE " ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PESHKUN" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PESHK" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "SALLAMIN " ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "SALLAM" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PULEN " ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PULËN" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PULË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PUL" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PULE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "HAMBURGER " ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "HAMBURGERIN" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PASTAT" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "MAKARONA" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "MAKARONAT" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PASTA" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PICËN" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PICË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PIC" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PICEN" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PICE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PICA" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PITEN" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PITE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "FLINË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "FLIN" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "FLINE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "FLI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "NESËR" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "NESER" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "DJE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "SOT" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PO" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "JO" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "NDOSHTA " ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "NUK MUNDEM " ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KEQ" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "MIRË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "MIR" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "MIRE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "SI JE " ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "MIELLIN " ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "MIELL" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "DJATH" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "DJATHIN" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "BUKËN" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "BUKEN" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "BUKË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "BUKE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "BUK" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "QUMËSHTIN" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "QUMESHTIN " ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "QUMËSHT" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "QUMESHT" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "UJË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "UJE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "UJ" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "UJI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "UJIN" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "VAJIN " ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "VAJ" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KRIPEN " ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KRIPËN" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KRIPË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KRIPE " ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KRIP" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "USHQIM" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "USHQIMI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KUSH" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "FALEMINDERIT" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "BASHKËBISEDIM" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "BASHKEBISEDIM" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KOMUNIKIM" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "DËGJOJ" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "DEGJOJ" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "GJYSEM I SHURDHER " ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "GJYSËM I SHURDHËR" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "I SHURDHËR" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "I SHURDHER " ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "SI QUHESH " ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PATJETËR" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PATJETER" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "DJALIN " ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "DJALIT" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "DJALI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "DJAL" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "DJALE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "DJALË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "VAJZA" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "VAJZEN " ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "VAJZES " ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "VAJZ" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "VAJZE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "VAJZËN" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "VAJZËS" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "VAJZË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "QIKËS" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "QIKËN" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "QIKAT" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "QIKA" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "BINJAKUN" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "BINJAKUT " ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "BINJAK" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "BINJAKË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "DAJEN" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "DAJES" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "DAJA" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "DAJËN" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "DAJËS" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "DAJË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "DAJ" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "DAJE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "DHENDERIN" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "DHENDERIT" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "DHËNDËRIN" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "DHËNDËRI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "DHËNDËRIN" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "DHENDERI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "DHËNDËR" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "DHENDER " ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KUSHERIRIN " ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KUSHERIRIT " ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KUSHËRIRIN" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KUSHËRIRIT" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KUSHËRI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "KUSHERI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "TEZEN " ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "TEZES" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "TETEN" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "TETJA" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "TETE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "TEZE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "TEZJA" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "AGJI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "AGJ" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "AGJALLARET" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "XHAXHAIN" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "XHAXHAIT" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "XHAXHA" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "HALLAT" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "HALLA" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "HALLËN" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "HALLË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "HALLEN" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "HALLES" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "HALLËS" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "HALL" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "HALLE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "HALLË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "MBES" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "MBESA" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "MBESËN" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "MBESEN" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "MBESËS" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "MBESES" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "MBESË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "MBESE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "NIPI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "NIPIN" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "NIPIT" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "NIP" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "BEBEN" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "BEBES" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "BEBE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "FAMILJARIN " ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "FAMILJARI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "FAMILJAR " ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "FEMIUN" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "FËMIUN" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "FËMIUT" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "FEMIUT " ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "FËMIJË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "FEMIJE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PRINDIN" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PRINDIT" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PRIND" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PRINDI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "VELLAUN " ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "VËLLAUN" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "VELLAUT" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "VËLLAUT" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "VELLA" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "VËLLA" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "VËLLAU" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "VELLAU" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "MOTRËN" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "MOTREN " ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "MOTRËS" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "MOTRES" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "MOTËR" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "MOTER" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "MOTRAT" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "MOTRA" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "BABAIN" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "BABAIT " ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "BAB" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "BABA" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "NËNËN" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "NENEN" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "NËNËS" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "NENES" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "NËNË" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "NENE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "MAMIN" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "MAMIT" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "MAMI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "MAM" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "GJYSHEN" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "GJYSHES" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "GJYSHE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "GJYSHIN " ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "GJYSHIT" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "GJYSH " ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PREJ " ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "FAMILJEN " ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "FAMILJES" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "FAMILJE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "MAJTAS" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "DJATHTAS" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "MIREMBREMA" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "MIRËMBRËMA" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "MIRËMËNGJES " ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "MIREMENGJES" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "MIRUPAFSHIM" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "ÇKEMI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "CKEMI" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "DITËN  E MIR" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "DITEN E MIR" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "DITËN E MIRË " ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "DITEN E MIRE " ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PËRSHËNDETJE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "PERSHENDETJE" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "ZH" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "Z" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "Y" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "XH" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "X" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "V" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "U" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "TH" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "T" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "SH" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "S" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "RR" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "R" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "Q" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "P" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "O" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "NJ" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "N" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "M" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "LL" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "L" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "K" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "J" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "I" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "H" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "GJ" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "G" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "F" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "Ë" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "E" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "DH" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "D" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "Ç" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "C" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "B" ,
+		"VideoPath" : "linku"
+	},
+	{
+		"Shqip" : "A" ,
+		"VideoPath" : "linku"
+	}
 ]

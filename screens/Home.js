@@ -1,16 +1,20 @@
 import React from 'react';
-import { StyleSheet, Text, Button, View, TextInput, Image, TouchableHighlight } from 'react-native';
+import { Ionicons } from '@expo/vector-icons';
+import { StyleSheet, Text, Button, View, TextInput, Image, TouchableHighlight, Platform } from 'react-native';
 import Info from '../info2.json';
-import { FloatingAction } from "react-native-floating-action";
+import AppIntroSlider from 'react-native-app-intro-slider';
+import { widthPercentageToDP as wp, heightPercentageToDP as hp } from 'react-native-responsive-screen';
 
 class Home extends React.Component {
     constructor(props) {
         super(props)
 
         this.state = {
+            show_Main_App: false,
             TextInputValue: "",
             Video1: "",
             pathsLength: false,
+            inputvalue: ""
         }
         global.paths = [];
         global.myText = ""
@@ -18,7 +22,13 @@ class Home extends React.Component {
         global.tobeshown = []
     };
 
-    
+    on_Done_all_slides = () => {
+        this.setState({ show_Main_App: true });
+    };
+
+    on_Skip_slides = () => {
+        this.setState({ show_Main_App: true });
+    };
 
     buttonClickListener = () => {
         FjaletShqip = []
@@ -47,32 +57,59 @@ class Home extends React.Component {
                 }
             })
         });
-            this.props.navigation.navigate('ImageDisplay')
-    }
+        this.textInput.clear()
+        this.props.navigation.navigate('ImageDisplay');
 
-    GjuhaShqipe = () => {
-        alert("GjuhaShqipe")
     }
 
     GjuhaShenjave = () => {
-        alert("GjuhaShenjave")
+        this.props.navigation.navigate('Reply')
     }
 
-    render() {
+    _renderNextButton = () => {
         return (
-            <View style={styles.container}>
-                <View style={styles.ChooseLang}>
-                    <TouchableHighlight
-                        style={styles.GjShq}
-                        onPress={this.GjuhaShqipe}
-                    ><Text style={styles.TextinButtonGjShq}>Shqip</Text></TouchableHighlight>
-                    <TouchableHighlight
-                        style={styles.GjShq}
-                        onPress={this.GjuhaShenjave}
-                    ><Text style={styles.TextinButtonGjShe}>Gjuha e shenjave</Text></TouchableHighlight>
-                </View>
-                <View style={styles.UnderView}>
+            <View style={styles.nextperfbtn}>
+                <Text style={styles.textNextPerf}> Vazhdo </Text>
+                <Ionicons
+                    name="md-arrow-round-forward"
+                    color="rgba(255, 255, 255, .9)"
+                    size={hp("3%")}
+                    style={{ backgroundColor: 'transparent', marginTop: hp("1.35%") }}
+                />
+            </View>
+        );
+    };
+    _renderDoneButton = () => {
+        return (
+            <View style={styles.nextperfbtn}>
+                <Text style={styles.textNextPerf}> Përfundo </Text>
+                <Ionicons
+                    name="md-checkmark"
+                    color="rgba(255, 255, 255, .9)"
+                    size={hp("3%")}
+                    style={{ backgroundColor: 'transparent', marginTop: hp("1.35%") }}
+                />
+            </View>
+        );
+    };
+
+    render() {
+        if (this.state.show_Main_App) {
+            return (
+                <View style={styles.container}>
+                    <View style={styles.ChooseLang}>
+                        <TouchableHighlight
+                            style={styles.GjShq}
+                            onPress={this.GjuhaShqipe}
+                        ><Text style={styles.TextinButtonGjShq}>Shqip</Text></TouchableHighlight>
+                        <TouchableHighlight
+                            style={styles.GjShq}
+                            onPress={this.GjuhaShenjave}
+                        ><Text style={styles.TextinButtonGjShe}>Gjuha e shenjave</Text></TouchableHighlight>
+                    </View>
+                    <View style={styles.UnderView}>
                         <TextInput
+                            ref={input => { this.textInput = input }}
                             placeholder="Shkruani këtu..."
                             style={styles.inputStyling}
                             onChangeText={TextInputValue => this.setState({ TextInputValue })}
@@ -81,22 +118,25 @@ class Home extends React.Component {
                             style={styles.SendButton}
                             onPress={this.buttonClickListener}
                         ><Image style={styles.sendImage} source={require('../assets/send.png')} /></TouchableHighlight>
+                    </View>
+
                 </View>
-                    
-                
-                <FloatingAction
-                    actions={actions}
-                    onPressItem={name => {
-                        console.log(`selected button: ${name}`);
-                    }}
+            );
+        } else {
+            return (
+                <AppIntroSlider
+                    slides={slides}
+                    renderDoneButton={this._renderDoneButton}
+                    renderNextButton={this._renderNextButton}
+                    onDone={this.on_Done_all_slides}
+                    showSkipButton={false}
+                    onSkip={this.on_Skip_slides}
                 />
-            </View>
-
-
-            
-        );
+            );
+        }
     }
-}
+        
+    }
 
 
 export default Home;
@@ -106,10 +146,10 @@ const styles = StyleSheet.create({
         backgroundColor: "white",
         alignItems: "center",
         justifyContent: "flex-start",
-        width: "97.5%",
+        width: wp("97.5%"),
         borderTopLeftRadius: 25,
         borderTopRightRadius: 25,
-        height: "90%",
+        height: "100%",
         marginTop: 25
     },  
     ChooseLang: {
@@ -136,7 +176,7 @@ const styles = StyleSheet.create({
     GjShq: {
         backgroundColor: "white",
         alignItems: "center",
-        width: "50%",
+        width: wp("50%"),
         height: 40,
         justifyContent: "center",
         margin: 0.025,
@@ -145,15 +185,22 @@ const styles = StyleSheet.create({
         borderRadius: 10,
     },
     TextinButtonGjShq: {
-        fontSize: 17.5,
+        fontSize: 18.5,
         color: "#008081",
-        fontFamily: "Helvetica Neue",
-        fontWeight: "200",
+        fontFamily: "Avenir",
+        fontWeight: "300",
+    },
+    nextperfbtn: {
+        display: "flex",
+        justifyContent: "center",
+        flexDirection:'row',
+        alignItems: 'center',
+        alignContent: 'center'
     },
     TextinButtonGjShe: {
-        fontSize: 17.5,
+        fontSize: 16,
         color: "#008081",
-        fontFamily: "Helvetica Neue",
+        fontFamily: "Avenir",
         fontWeight: "200",
     },
     sendImage: {
@@ -174,7 +221,7 @@ const styles = StyleSheet.create({
         height: 175,
         paddingTop: 10,
         padding: 12.5,
-        fontFamily: 'Helvetica Neue',
+        fontFamily: 'Avenir',
         fontWeight: "200",
         fontSize: 17.5,
         // shadowColor: "#555",
@@ -188,28 +235,82 @@ const styles = StyleSheet.create({
         width: 50,
         position: "absolute",
         top: 150,
-        right: 77.5,
+        right: wp("18.5%"),
         borderBottomRightRadius: 5
+    },
+    MainContainer: {
+        flex: 1,
+        paddingTop: (Platform.OS) === 'ios' ? 20 : 0,
+        alignItems: 'center',
+        justifyContent: 'center',
+        padding: 20
+    },
+    title: {
+        fontSize: hp("3.5%"),
+        color: '#fff',
+        fontWeight: 'bold',
+        textAlign: 'center',
+        fontFamily: 'Avenir',
+        fontWeight: "300",
+        marginTop: 20,
+    },
+    text: {
+        color: '#fff',
+        fontSize: hp("2.5%"),
+        fontFamily: 'Avenir',
+        fontWeight: "300",
+    },
+    textNextPerf: {
+        marginTop: hp("1.5%"),
+        color: '#fff',
+        fontSize: hp("2.5%"),
+        fontFamily: 'Avenir',
+        fontWeight: "300",
+    },
+    image: {
+        width: 200,
+        height: 200,
+        resizeMode: 'contain'
     }
 });
 
-const actions = [
+const slides = [
     {
-        text: "Accessibility",
-        icon: require("../assets/send.png"),
-        name: "bt_accessibility",
-        position: 2
+        key: 'k1',
+        title: 'Lidhja e botës është qëllimi ynë',
+        text: 'Lidhja e botës është qëllimi ynë',
+        image: {
+            uri:
+                'https://reactnativecode.com/wp-content/uploads/2019/04/calendar.png',
+        },
+        titleStyle: styles.title,
+        textStyle: styles.text,
+        imageStyle: styles.image,
+        backgroundColor: '#008081',
     },
     {
-        text: "Location",
-        icon: require("../assets/internet.png"),
-        name: "bt_room",
-        position: 3
+        key: 'k2',
+        title: 'Për të lidhur botën në duhet të kemi marrëdhënie të mira',
+        text: 'Për të lidhur botën në duhet të kemi marrëdhënie të mira',
+        image: {
+            uri:
+                'https://reactnativecode.com/wp-content/uploads/2019/04/cloud.png',
+        },
+        titleStyle: styles.title,
+        textStyle: styles.text,
+        imageStyle: styles.image,
+        backgroundColor: '#008081',
     },
     {
-        text: "Video",
-        icon: require("../assets/excel.png"),
-        name: "bt_videocam",
-        position: 4
+        key: 'k3',
+        title: 'Çelësi kryesor për një marrëdhënie të mirë është komunikimi',
+        text: 'Latest Technology Reports',
+        image: {
+            uri: 'https://reactnativecode.com/wp-content/uploads/2019/04/computer.png',
+        },
+        titleStyle: styles.title,
+        textStyle: styles.text,
+        imageStyle: styles.image,
+        backgroundColor: '#008081',
     }
 ];
