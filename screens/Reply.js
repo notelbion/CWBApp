@@ -13,6 +13,7 @@ class Reply extends React.Component {
         this.state = {
             search: '',
             checked: false,
+            toShow: 100
         }
     }
 
@@ -33,7 +34,8 @@ class Reply extends React.Component {
     };
 
     _ShowMore = () => {
-
+        this.state.toShow = this.state.toShow + 120;
+        alert(this.state.toShow)
     }
 
 
@@ -74,7 +76,7 @@ class Reply extends React.Component {
                 }}>
                     <ScrollView contentContainerStyle={styles.scrollview}>
                         {
-                            Info.slice(0, 250).map(item => {
+                            Info.slice(0, this.state.toShow).map(item => {
                                 return <React.Fragment>
                                     <TouchableHighlight onPress={this._Selected} underlayColor="white">
                                         <View style={{

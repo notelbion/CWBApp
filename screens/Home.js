@@ -72,7 +72,7 @@ class Home extends React.Component {
                 <Text style={styles.textNextPerf}> Vazhdo </Text>
                 <Ionicons
                     name="md-arrow-round-forward"
-                    color="rgba(255, 255, 255, .9)"
+                    color="#333"
                     size={hp("3%")}
                     style={{ backgroundColor: 'transparent', marginTop: hp("1.35%") }}
                 />
@@ -85,7 +85,7 @@ class Home extends React.Component {
                 <Text style={styles.textNextPerf}> Përfundo </Text>
                 <Ionicons
                     name="md-checkmark"
-                    color="rgba(255, 255, 255, .9)"
+                    color="#333"
                     size={hp("3%")}
                     style={{ backgroundColor: 'transparent', marginTop: hp("1.35%") }}
                 />
@@ -125,6 +125,7 @@ class Home extends React.Component {
         } else {
             return (
                 <AppIntroSlider
+                    style={{ margin: 0 }}
                     slides={slides}
                     renderDoneButton={this._renderDoneButton}
                     renderNextButton={this._renderNextButton}
@@ -247,29 +248,32 @@ const styles = StyleSheet.create({
     },
     title: {
         fontSize: hp("3.5%"),
-        color: '#fff',
+        color: '#333',
         fontWeight: 'bold',
         textAlign: 'center',
         fontFamily: 'Avenir',
         fontWeight: "300",
-        marginTop: 20,
+        marginTop: hp("50%"),
+        marginBottom: hp("5%")
     },
     text: {
-        color: '#fff',
+        color: '#333',
         fontSize: hp("2.5%"),
         fontFamily: 'Avenir',
         fontWeight: "300",
+        marginTop: hp("-20%")
     },
     textNextPerf: {
         marginTop: hp("1.5%"),
-        color: '#fff',
+        color: '#333',
         fontSize: hp("2.5%"),
         fontFamily: 'Avenir',
         fontWeight: "300",
     },
-    image: {
-        width: 200,
-        height: 200,
+    image1: {
+        marginTop: hp("-125%"),
+        width: wp("120%"),
+        height: hp("100%"),
         resizeMode: 'contain'
     }
 });
@@ -277,40 +281,32 @@ const styles = StyleSheet.create({
 const slides = [
     {
         key: 'k1',
-        title: 'Lidhja e botës është qëllimi ynë',
-        text: 'Lidhja e botës është qëllimi ynë',
-        image: {
-            uri:
-                'https://reactnativecode.com/wp-content/uploads/2019/04/calendar.png',
-        },
+        title: 'Ndryshim!',
+        text: 'Duke ndryshuar për të mirë, ne i japim shpresë vetes, familjes, shoqërisë dhe të gjithë komunitetit për të pasur marrëdhënie të mira dhe reciproke',
+        image: require("../assets/change.png"),
         titleStyle: styles.title,
         textStyle: styles.text,
-        imageStyle: styles.image,
-        backgroundColor: '#008081',
+        imageStyle: styles.image1,
+        backgroundColor: '#fff',
     },
     {
         key: 'k2',
-        title: 'Për të lidhur botën në duhet të kemi marrëdhënie të mira',
-        text: 'Për të lidhur botën në duhet të kemi marrëdhënie të mira',
-        image: {
-            uri:
-                'https://reactnativecode.com/wp-content/uploads/2019/04/cloud.png',
-        },
+        title: 'Komunikim!',
+        text: 'Çelësi kryesor për të pasur marrëdhënie të mira është komunikimi',
+        image: require("../assets/communicate.png"),
         titleStyle: styles.title,
         textStyle: styles.text,
-        imageStyle: styles.image,
-        backgroundColor: '#008081',
+        imageStyle: styles.image1,
+        backgroundColor: '#fff',
     },
     {
         key: 'k3',
-        title: 'Çelësi kryesor për një marrëdhënie të mirë është komunikimi',
-        text: 'Latest Technology Reports',
-        image: {
-            uri: 'https://reactnativecode.com/wp-content/uploads/2019/04/computer.png',
-        },
+        text: 'Krijimi i lidhjeve me njëri tjetrin në mënyra prej më të ndryshmeve, na mundëson një jetesë paqësore e të mirëqenë ndërshoqërore',
+        title: "Lidhje!",
+        image: require("../assets/connect.png"),
         titleStyle: styles.title,
         textStyle: styles.text,
-        imageStyle: styles.image,
-        backgroundColor: '#008081',
+        imageStyle: styles.image1,
+        backgroundColor: '#fff',
     }
 ];
