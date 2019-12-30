@@ -13,8 +13,27 @@ class Reply extends React.Component {
         this.state = {
             search: '',
             checked: false,
-            toShow: 100
+            toShow: 100,
+            contentofScrollView: Info.slice(0, 100).map(item => { return <React.Fragment>
+                    <TouchableHighlight onPress={this._Selected}>
+                        <View style={{ justifyContent: 'center', alignItems: 'center', margin: 10 }}>
+                            <Image style={styles.VideoPathImage} source={{ uri: item.VideoPath }} />
+                            <Text style={styles.textbelowimage}> {item.Shqip} </Text>
+                        </View>
+                    </TouchableHighlight>
+                </React.Fragment>
+
+            })
+        };
+
+        style = {
+            shadowColorofViola: "#fff",
+            shadowOffsetofViola: 0,
+            shadowOpacityofViola: 0,
+            shadowRadiusofViola: 0,
+            elevationofViola: 0
         }
+
     }
 
     GjuhaShqipe = () => {
@@ -33,9 +52,34 @@ class Reply extends React.Component {
         this.setState({ search });
     };
 
+    _Selected = () => {
+        this.setState({
+            style: {
+                shadowOffsetofViola: { width: 0, height: 11, },
+                shadowOpacityofViola: 0.57,
+                shadowRadiusofViola: 15.19,
+                elevationofViola: 23
+            }
+            
+        });
+    }
+
     _ShowMore = () => {
-        this.state.toShow = this.state.toShow + 120;
-        alert(this.state.toShow)
+        this.setState({
+            contentofScrollView: 
+            Info.map(word => {
+                if (word.Kategoria === "Numëror") {
+                    return <React.Fragment>
+                        <TouchableHighlight onPress={this._Selected}>
+                            <View style={{ justifyContent: 'center', alignItems: 'center', margin: 10 }}>
+                                <Image style={styles.VideoPathImage} source={{ uri: word.VideoPath }} />
+                                <Text style={styles.textbelowimage}> {word.Shqip} </Text>
+                            </View>
+                        </TouchableHighlight>
+                    </React.Fragment>
+                }
+            }
+        )})
     }
 
 
@@ -75,31 +119,7 @@ class Reply extends React.Component {
                     justifyContent: 'center'
                 }}>
                     <ScrollView contentContainerStyle={styles.scrollview}>
-                        {
-                            Info.slice(0, this.state.toShow).map(item => {
-                                return <React.Fragment>
-                                    <TouchableHighlight onPress={this._Selected} underlayColor="white">
-                                        <View style={{
-                                            justifyContent: 'center',
-                                            alignItems: 'center',
-                                            margin: 10
-                                        }}>
-                                            <Image style={styles.VideoPathImage} source={{ uri: item.VideoPath }} />
-                                            <Text style={styles.textbelowimage}> {item.Shqip} </Text>
-                                            <CheckBox
-                                                center
-                                                title='Selekto'
-                                                checked={this.state.checked}
-                                                checkedColor='#008081'
-                                                fontFamily='Avenir'
-                                                onPress={() => this.setState({ checked: !this.state.checked})}
-                                            />
-                                        </View>
-                                    </TouchableHighlight>
-                                </React.Fragment>
-
-                            })
-                        }
+                     { this.state.contentofScrollView }
                     </ScrollView>
                 </View>
                 <TouchableHighlight style={styles.showMoregifs} onPress={this._ShowMore} underlayColor="white">
@@ -140,6 +160,8 @@ const styles = StyleSheet.create({
         fontSize: hp("2%"),
         fontFamily: "Avenir",
         fontWeight: "200",
+        width: wp("40%"),
+        textAlign: 'center'
     },
     ChooseLang: {
         alignItems: "center",
