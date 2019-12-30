@@ -1,5 +1,5 @@
 import React from 'react';
-import { StyleSheet, Text, Button, View, TextInput, Image, TouchableHighlight, ScrollView } from 'react-native';
+import { StyleSheet, Text, Button, View, TouchableOpacity, Image, TouchableHighlight, ScrollView } from 'react-native';
 import { CheckBox } from 'react-native-elements';
 import { Ionicons, MaterialIcons } from '@expo/vector-icons';
 import { widthPercentageToDP as wp, heightPercentageToDP as hp } from 'react-native-responsive-screen';
@@ -14,6 +14,7 @@ class Reply extends React.Component {
             search: '',
             checked: false,
             toShow: 100,
+            selectionview: 'hello',
             backgroundColorofCategory: '',
             categoryShow: '',
             contentofScrollView: Info.slice(0, 50).map(item => { return <React.Fragment>
@@ -27,15 +28,6 @@ class Reply extends React.Component {
             
             })
         };
-
-        style = {
-            shadowColorofViola: "#fff",
-            shadowOffsetofViola: 0,
-            shadowOpacityofViola: 0,
-            shadowRadiusofViola: 0,
-            elevationofViola: 0
-        }
-
     }
 
     GjuhaShqipe = () => {
@@ -59,28 +51,20 @@ class Reply extends React.Component {
             backgroundColorofCategory: '',
             contentofScrollView: Info.slice(0, 50).map(item => {
                 return <React.Fragment>
-                    <TouchableHighlight onPress={this._Selected}>
+                    <TouchableOpacity onPress={this._Selected.bind(item.Selected)}>
                         <View style={{ justifyContent: 'center', alignItems: 'center', margin: 10 }}>
                             <Image style={styles.VideoPathImage} source={{ uri: item.VideoPath }} />
                             <Text style={styles.textbelowimage}> {item.Shqip} </Text>
                         </View>
-                    </TouchableHighlight>
+                    </TouchableOpacity>
                 </React.Fragment>
 
             })
         }) 
     }
 
-    _Selected = () => {
-        this.setState({
-            style: {
-                shadowOffsetofViola: { width: 0, height: 11, },
-                shadowOpacityofViola: 0.57,
-                shadowRadiusofViola: 15.19,
-                elevationofViola: 23
-            }
-            
-        });
+    _Selected(selection) {
+        alert(selection)
     }
 
     Numeror = () => {
@@ -91,12 +75,12 @@ class Reply extends React.Component {
             Info.map(word => {
                 if (word.Kategoria === "Numëror") {
                     return <React.Fragment>
-                        <TouchableHighlight onPress={this._Selected}>
+                        <TouchableOpacity onPress={this._Selected}>
                             <View style={{ justifyContent: 'center', alignItems: 'center', margin: 10 }}>
                                 <Image style={styles.VideoPathImage} source={{ uri: word.VideoPath }} />
                                 <Text style={styles.textbelowimage}> {word.Shqip} </Text>
                             </View>
-                        </TouchableHighlight>
+                        </TouchableOpacity>
                     </React.Fragment>
                 }
             }
@@ -120,8 +104,8 @@ class Reply extends React.Component {
                     <MaterialIcons
                             name="close"
                             color="#fff"
-                            size={hp("4%")}
-                            style={{ backgroundColor: 'transparent' }}
+                            size={hp("5%")}
+                            style={{ backgroundColor: 'transparent', margin: hp("1.25%"), marginLeft: hp("10%") }}
                     />
                     </TouchableHighlight>
                 </View>
@@ -236,8 +220,9 @@ class Reply extends React.Component {
                         textAlign: 'center',
                         backgroundColor: this.state.backgroundColorofCategory
                     }}> {this.state.categoryShow} </Text>
+                    <Text> {this.state.selectionview} </Text>
                     <ScrollView contentContainerStyle={styles.scrollview}>
-                     { this.state.contentofScrollView }
+                        {this.state.contentofScrollView}
                     </ScrollView>
                 </View>
             </View>

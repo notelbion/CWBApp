@@ -275,6 +275,12 @@ const styles = StyleSheet.create({
         width: wp("120%"),
         height: hp("100%"),
         resizeMode: 'contain'
+    },
+    image2dif: {
+        marginTop: hp("-131.5%"),
+        width: wp("120%"),
+        height: hp("100%"),
+        resizeMode: 'contain'
     }
 });
 
@@ -296,7 +302,7 @@ const slides = [
         image: require("../assets/communicate.png"),
         titleStyle: styles.title,
         textStyle: styles.text,
-        imageStyle: styles.image1,
+        imageStyle: styles.image2dif,
         backgroundColor: '#fff',
     },
     {

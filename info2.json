@@ -8976,87 +8976,104 @@
 	{
 		"Shqip" : "70" ,
 		"VideoPath" : "https://i.imgur.com/aQN17BZ.gif",
-		"Kategoria" : "Numëror"
+		"Kategoria" : "Numëror",
+		"Selected": 0
 	},
 	{
 		"Shqip" : "SHTATËDHJETË" ,
 		"VideoPath" : "https://i.imgur.com/aQN17BZ.gif",
-		"Kategoria": "Numëror"
+		"Kategoria": "Numëror",
+		"Selected": 0
 	},
 	{
 		"Shqip" : "SHTATEDHJETE" ,
 		"VideoPath" : "https://i.imgur.com/aQN17BZ.gif",
-		"Kategoria": "Numëror"
+		"Kategoria": "Numëror",
+		"Selected": 0
 	},
 	{
 		"Shqip" : "69" ,
 		"VideoPath" : "https://i.imgur.com/PLQdu8N.gif",
-		"Kategoria": "Numëror"
+		"Kategoria": "Numëror",
+		"Selected": 0
 	},
 	{
 		"Shqip" : "GJASHTËDHJETË E NËNTË" ,
 		"VideoPath" : "https://i.imgur.com/PLQdu8N.gif",
-		"Kategoria": "Numëror"
+		"Kategoria": "Numëror",
+		"Selected": 0
 	},
 	{
 		"Shqip" : "GJASHTEDHJETE E NENTE" ,
 		"VideoPath" : "https://i.imgur.com/PLQdu8N.gif",
-		"Kategoria": "Numëror"
+		"Kategoria": "Numëror",
+		"Selected": 0
 	},
 	{
 		"Shqip" : "68" ,
 		"VideoPath" : "https://i.imgur.com/9G53fq9.gif",
-		"Kategoria": "Numëror"
+		"Kategoria": "Numëror",
+		"Selected": 0
 	},
 	{
 		"Shqip" : "GJASHTËDHJETË E TETË" ,
 		"VideoPath" : "https://i.imgur.com/9G53fq9.gif",
-		"Kategoria": "Numëror"
+		"Kategoria": "Numëror",
+		"Selected": 0
 	},
 	{
 		"Shqip" : "GJASHTEDHJETE E TETE" ,
 		"VideoPath" : "https://i.imgur.com/9G53fq9.gif",
-		"Kategoria": "Numëror"
+		"Kategoria": "Numëror",
+		"Selected": 0
 	},
 	{
 		"Shqip" : "67" ,
 		"VideoPath" : "https://i.imgur.com/YptlJEK.gif",
-		"Kategoria": "Numëror"
+		"Kategoria": "Numëror",
+		"Selected": 0
 	},
 	{
 		"Shqip" : "GJASHTËDHJETË E SHTATË" ,
 		"VideoPath" : "https://i.imgur.com/YptlJEK.gif",
-		"Kategoria": "Numëror"
+		"Kategoria": "Numëror",
+		"Selected": 0
 	},
 	{
 		"Shqip" : "GJASHTEDHJETE E SHTATE" ,
 		"VideoPath" : "https://i.imgur.com/YptlJEK.gif",
-		"Kategoria": "Numëror"
+		"Kategoria": "Numëror",
+		"Selected": 0
 	},
 	{
 		"Shqip" : "66" ,
 		"VideoPath" : "https://i.imgur.com/nQmADK4.gif",
-		"Kategoria": "Numëror"
+		"Kategoria": "Numëror",
+		"Selected": 0
 	},
 	{
 		"Shqip" : "GJASHTËDHJETË E GJASHTË" ,
 		"VideoPath" : "https://i.imgur.com/nQmADK4.gif",
-		"Kategoria": "Numëror"
+		"Kategoria": "Numëror",
+		"Selected": 0
 	},
 	{
 		"Shqip" : "GJASHTEDHJETE E GJASHTE" ,
 		"VideoPath" : "https://i.imgur.com/nQmADK4.gif",
-		"Kategoria": "Numëror"
+		"Kategoria": "Numëror",
+		"Selected": 0
 	},
 	{
 		"Shqip" : "65" ,
 		"VideoPath" : "https://i.imgur.com/vnu25DE.gif",
-		"Kategoria": "Numëror"
+		"Kategoria": "Numëror",
+		"Selected": 1
 	},
 	{
 		"Shqip" : "GJASHTËDHJETË E PESË" ,
 		"VideoPath" : "https://i.imgur.com/vnu25DE.gif",
-		"Kategoria": "Numëror"
+		"Kategoria": "Numëror",
+		"Selected": 0
 	},
 	{
 		"Shqip" : "GJASHTEDHJETE E PESE" ,
