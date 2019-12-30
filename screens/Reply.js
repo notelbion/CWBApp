@@ -1,7 +1,7 @@
 import React from 'react';
 import { StyleSheet, Text, Button, View, TextInput, Image, TouchableHighlight, ScrollView } from 'react-native';
 import { CheckBox } from 'react-native-elements';
-import { Ionicons } from '@expo/vector-icons';
+import { Ionicons, MaterialIcons } from '@expo/vector-icons';
 import { widthPercentageToDP as wp, heightPercentageToDP as hp } from 'react-native-responsive-screen';
 import { Searchbar } from 'react-native-paper';
 import Info from '../info2.json';
@@ -14,15 +14,17 @@ class Reply extends React.Component {
             search: '',
             checked: false,
             toShow: 100,
-            contentofScrollView: Info.slice(0, 100).map(item => { return <React.Fragment>
+            backgroundColorofCategory: '',
+            categoryShow: '',
+            contentofScrollView: Info.slice(0, 50).map(item => { return <React.Fragment>
                     <TouchableHighlight onPress={this._Selected}>
-                        <View style={{ justifyContent: 'center', alignItems: 'center', margin: 10 }}>
+                        <View style={{ justifyContent: 'center', alignItems: 'center', margin: 10}}>
                             <Image style={styles.VideoPathImage} source={{ uri: item.VideoPath }} />
                             <Text style={styles.textbelowimage}> {item.Shqip} </Text>
                         </View>
                     </TouchableHighlight>
                 </React.Fragment>
-
+            
             })
         };
 
@@ -52,6 +54,23 @@ class Reply extends React.Component {
         this.setState({ search });
     };
 
+    V0 = () => {
+        this.setState({
+            backgroundColorofCategory: '',
+            contentofScrollView: Info.slice(0, 50).map(item => {
+                return <React.Fragment>
+                    <TouchableHighlight onPress={this._Selected}>
+                        <View style={{ justifyContent: 'center', alignItems: 'center', margin: 10 }}>
+                            <Image style={styles.VideoPathImage} source={{ uri: item.VideoPath }} />
+                            <Text style={styles.textbelowimage}> {item.Shqip} </Text>
+                        </View>
+                    </TouchableHighlight>
+                </React.Fragment>
+
+            })
+        }) 
+    }
+
     _Selected = () => {
         this.setState({
             style: {
@@ -64,8 +83,10 @@ class Reply extends React.Component {
         });
     }
 
-    _ShowMore = () => {
+    Numeror = () => {
+        this.state.categoryShow = 'Kategoria: Numëror '
         this.setState({
+            backgroundColorofCategory: '#0F5B5C',
             contentofScrollView: 
             Info.map(word => {
                 if (word.Kategoria === "Numëror") {
@@ -82,9 +103,100 @@ class Reply extends React.Component {
         )})
     }
 
+    CategorySelector = () => {
+        this.state.categoryShow = ''
+        this.setState({
+            backgroundColorofCategory: '#008081',
+            contentofScrollView:
+            <View>
+                <View style={styles.rowdisplay1}> 
+                    <Text style={{
+                        color: "white",
+                        fontFamily: 'Avenir-Light',
+                        fontSize: hp("3.5%"),
+                        margin: 10
+                    }}> Zgjedhni kategorinë: </Text>
+                    <TouchableHighlight onPress={this.V0}>
+                    <MaterialIcons
+                            name="close"
+                            color="#fff"
+                            size={hp("4%")}
+                            style={{ backgroundColor: 'transparent' }}
+                    />
+                    </TouchableHighlight>
+                </View>
+                <View style={styles.rowdisplay}>
+                    <TouchableHighlight style={styles.categoryboxes} onPress={this.CategorySelector} underlayColor="white">
+                        <View style={{ justifyContent: 'center', alignItems: 'center', margin: 10 }}>
+                            <MaterialIcons
+                                name="person-pin"
+                                color="#333"
+                                size={hp("4%")}
+                                style={{ backgroundColor: 'transparent' }}
+                            />
+                            <Text style={{
+                                fontSize: 16,
+                                color: "#333",
+                                fontFamily: "Avenir",
+                                fontWeight: "200" }}> Profesione </Text>
+                        </View>
+                        
+                    </TouchableHighlight>
+                    <TouchableHighlight style={styles.categoryboxes} onPress={this.CategorySelector} underlayColor="white">
+                        <View style={{ justifyContent: 'center', alignItems: 'center', margin: 10 }}>
+                            <MaterialIcons
+                                name="local-dining"
+                                color="#333"
+                                size={hp("4%")}
+                                style={{ backgroundColor: 'transparent' }}
+                            />
+                            <Text style={{
+                                fontSize: 16,
+                                color: "#333",
+                                fontFamily: "Avenir",
+                                fontWeight: "200" }}> Ushqime </Text>
+                        </View>
+                    </TouchableHighlight>
+                </View>
+                <View style={styles.rowdisplay}>
+                    <TouchableHighlight style={styles.categoryboxes} onPress={this.Numeror} underlayColor="white">
+                        <View style={{ justifyContent: 'center', alignItems: 'center', margin: 10 }}>
+                        <MaterialIcons
+                            name="format-list-numbered"
+                            color="#333"
+                            size={hp("4%")}
+                            style={{ backgroundColor: 'transparent' }}
+                        />
+                            <Text style={{
+                                fontSize: 16,
+                                color: "#333",
+                                fontFamily: "Avenir",
+                                fontWeight: "200" }}> Numëror </Text>
+                        </View>
+                    </TouchableHighlight>
+                    <TouchableHighlight style={styles.categoryboxes} onPress={this.CategorySelector} underlayColor="white">
+                        <View style={{ justifyContent: 'center', alignItems: 'center', margin: 10 }}>
+                        <MaterialIcons
+                            name="questioncircleo"
+                            color="#333"
+                            size={hp("4%")}
+                            style={{ backgroundColor: 'transparent' }}
+                        />
+                            <Text style={{
+                                fontSize: 16,
+                                color: "#333",
+                                fontFamily: "Avenir",
+                                fontWeight: "200" }}> Tjera </Text>
+                        </View>
+                    </TouchableHighlight>
+
+                </View>
+            </View>
+        })
+    }
+
 
     render() {
-        const { search } = this.state;
         return(
             <View style={styles.container}>
                 <View style={styles.ChooseLang}>
@@ -97,40 +209,37 @@ class Reply extends React.Component {
                         onPress={this.GjuhaShenjave}
                     ><Text style={styles.TextinButtonGjShe}>Gjuha e shenjave</Text></TouchableHighlight>
                 </View>
-                <Searchbar
-                    placeholder="Kërkoni për fjalë..."
-                    onChangeText={query => { this.setState({ search: query }); }}
-                    value={search}
-                    onIconPress={() => Alert.alert('HEHE')}
-                    style={{
-                        width: wp("75%"),
-                        borderRadius: 7.5,
-                        height: hp("7.5%"),
-                        marginTop: hp("2%")
-                    }}
-                />
+                <TouchableHighlight style={styles.filter} onPress={this.CategorySelector} underlayColor="white">
+                        <MaterialIcons
+                            name="sort"
+                            color="#333"
+                            size={hp("4%")}
+                            style={{ backgroundColor: 'transparent'}}
+                        />
+                </TouchableHighlight>
                 <View style={{
                     flex: 1,
                     maxWidth: "100%",
                     height: "100%",
                     backgroundColor: 'none',
-                    paddingTop: 25,
+                    paddingTop: hp("2%"),
                     alignItems: 'center',
                     justifyContent: 'center'
                 }}>
+                    <Text style={{
+                        color: "white",
+                        fontFamily: 'Avenir-Light',
+                        fontSize: hp("3%"),
+                        margin: hp("1%"),
+                        width: wp("100%"),
+                        padding: hp("1%"),
+                        textAlign: 'center',
+                        backgroundColor: this.state.backgroundColorofCategory
+                    }}> {this.state.categoryShow} </Text>
                     <ScrollView contentContainerStyle={styles.scrollview}>
                      { this.state.contentofScrollView }
                     </ScrollView>
                 </View>
-                <TouchableHighlight style={styles.showMoregifs} onPress={this._ShowMore} underlayColor="white">
-                    <Text style={{ fontSize: hp("2.5%"), fontFamily: "Avenir-Light", color: "#333" }}>
-                        <Ionicons
-                            name="md-arrow-dropdown"
-                            color="#333"
-                            size={hp("3.5%")}
-                            style={{ backgroundColor: 'transparent', marginTop: hp("1%") }}
-                        /> Më shumë </Text>
-                </TouchableHighlight>
             </View>
         )
     }
@@ -147,6 +256,22 @@ const styles = StyleSheet.create({
         flexDirection: 'row',
         flexWrap: 'wrap',
     },  
+    scrollview1: {
+        display: "flex",
+        justifyContent: 'center',
+        flexDirection: 'row',
+        flexWrap: 'wrap',
+    },  
+    rowdisplay: {
+        display: 'flex',
+        justifyContent: 'center',
+        flexDirection: 'row'
+    },
+    rowdisplay1: {
+        display: 'flex',
+        justifyContent: 'flex-start',
+        flexDirection: 'row'
+    },
     container: {
         flex: 1,
         backgroundColor: '#008081',
@@ -208,5 +333,20 @@ const styles = StyleSheet.create({
         alignContent: 'center',
         width: wp("50%"),
         margin: hp("2%")
+    },
+    filter: {
+        padding: hp("1.25%"),
+        backgroundColor: "white",
+        borderRadius: 7.5,
+        justifyContent: 'center',
+        margin: hp("2%")
+    },
+    categoryboxes: {
+        padding: hp("1.25%"),
+        backgroundColor: "white",
+        borderRadius: 7.5,
+        justifyContent: 'center',
+        margin: hp("2%"),
+        width: wp("40%")
     }
 });
