@@ -11,23 +11,30 @@ class Reply extends React.Component {
         super(props);
 
         this.state = {
-            search: '',
+            selection: [],
             checked: false,
             toShow: 100,
-            selectionview: 'hello',
             backgroundColorofCategory: '',
             categoryShow: '',
             contentofScrollView: Info.slice(0, 50).map(item => { return <React.Fragment>
-                    <TouchableHighlight onPress={this._Selected}>
+                <TouchableOpacity onPress={() => { 
+                    this.setState(prevState => ({
+                        selection: [...prevState.selection, item.VideoPath],
+                    }))
+                    
+                }}>
                         <View style={{ justifyContent: 'center', alignItems: 'center', margin: 10}}>
                             <Image style={styles.VideoPathImage} source={{ uri: item.VideoPath }} />
                             <Text style={styles.textbelowimage}> {item.Shqip} </Text>
                         </View>
-                    </TouchableHighlight>
+                    </TouchableOpacity>
                 </React.Fragment>
             
-            })
+            }),
+            
         };
+
+        
     }
 
     GjuhaShqipe = () => {
@@ -51,21 +58,21 @@ class Reply extends React.Component {
             backgroundColorofCategory: '',
             contentofScrollView: Info.slice(0, 50).map(item => {
                 return <React.Fragment>
-                    <TouchableOpacity onPress={this._Selected.bind(item.Selected)}>
+                    <TouchableOpacity onPress={() => {
+                        this.setState(prevState => ({
+                            selection: [...prevState.selection, item.VideoPath],
+                        }))
+                    }}>
                         <View style={{ justifyContent: 'center', alignItems: 'center', margin: 10 }}>
                             <Image style={styles.VideoPathImage} source={{ uri: item.VideoPath }} />
                             <Text style={styles.textbelowimage}> {item.Shqip} </Text>
                         </View>
                     </TouchableOpacity>
                 </React.Fragment>
-
             })
         }) 
     }
 
-    _Selected(selection) {
-        alert(selection)
-    }
 
     Numeror = () => {
         this.state.categoryShow = 'Kategoria: Numëror '
@@ -75,7 +82,11 @@ class Reply extends React.Component {
             Info.map(word => {
                 if (word.Kategoria === "Numëror") {
                     return <React.Fragment>
-                        <TouchableOpacity onPress={this._Selected}>
+                        <TouchableOpacity onPress={() => {
+                            this.setState(prevState => ({
+                                selection: [...prevState.selection, word.VideoPath],
+                            }))
+                        }}>
                             <View style={{ justifyContent: 'center', alignItems: 'center', margin: 10 }}>
                                 <Image style={styles.VideoPathImage} source={{ uri: word.VideoPath }} />
                                 <Text style={styles.textbelowimage}> {word.Shqip} </Text>
@@ -220,10 +231,25 @@ class Reply extends React.Component {
                         textAlign: 'center',
                         backgroundColor: this.state.backgroundColorofCategory
                     }}> {this.state.categoryShow} </Text>
-                    <Text> {this.state.selectionview} </Text>
+                    {/* <Text> {this.state.selectionview} </Text> */}
+                    <TouchableHighlight
+                        style={styles.GjShq}
+                        onPress={() => { alert(this.state.selection) }}
+                    ><Text>whos pressed</Text></TouchableHighlight>
                     <ScrollView contentContainerStyle={styles.scrollview}>
                         {this.state.contentofScrollView}
                     </ScrollView>
+                    <View style={styles.view2}>
+                        {Object.entries(this.state.selection).map(([key, value]) => {
+                            return <Image style={styles.VideoPathImageToSend} source={{ uri: value }} />
+                        })}
+                        <MaterialIcons
+                            name="send"
+                            color="#333"
+                            size={hp("5%")}
+                            style={{ backgroundColor: 'transparent', margin: hp("1.25%"), marginLeft: hp("10%") }}
+                        />
+                    </View>
                 </View>
             </View>
         )
@@ -247,6 +273,17 @@ const styles = StyleSheet.create({
         flexDirection: 'row',
         flexWrap: 'wrap',
     },  
+    view2: {
+        width: wp("100%"),
+        height: hp("7.5%"),
+        display: "flex",
+        borderTopLeftRadius: 10,
+        borderTopRightRadius: 10,
+        justifyContent: 'flex-start',
+        alignContent: 'center',
+        flexDirection: 'row',
+        backgroundColor: 'rgba(255, 255, 255, 1)',
+    }, 
     rowdisplay: {
         display: 'flex',
         justifyContent: 'center',
@@ -306,6 +343,11 @@ const styles = StyleSheet.create({
         marginTop: 10,
         height: 100,
         width: wp("40%"),
+    },
+    VideoPathImageToSend: {
+        margin: 5,
+        height: hp("6%"),
+        width: wp("20%"),
     },
     showMoregifs: {
         padding: wp("1.25%"),
