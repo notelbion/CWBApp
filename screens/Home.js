@@ -1,8 +1,9 @@
 import React from 'react';
-import { Ionicons } from '@expo/vector-icons';
-import { StyleSheet, Text, Button, View, TextInput, Image, TouchableHighlight, Platform } from 'react-native';
-import Info from '../info2.json';
+import { Ionicons, FontAwesome, MaterialIcons } from '@expo/vector-icons';
+import { StyleSheet, Text, Button, View, TextInput, Image, TouchableHighlight, Platform, Linking, ScrollView } from 'react-native';
+import Info from '../fjalet-e-reja.json';
 import AppIntroSlider from 'react-native-app-intro-slider';
+import Modal from "react-native-modal";
 import { widthPercentageToDP as wp, heightPercentageToDP as hp } from 'react-native-responsive-screen';
 
 class Home extends React.Component {
@@ -11,16 +12,26 @@ class Home extends React.Component {
 
         this.state = {
             show_Main_App: false,
-            TextInputValue: "",
+            TextInputValue: '',
             Video1: "",
+            isModalVisible: false,
             pathsLength: false,
-            inputvalue: ""
+            inputvalue: "",
+            warning: ''
         }
         global.paths = [];
         global.myText = ""
         global.myFullText = ""
         global.tobeshown = []
     };
+
+    componentWillMount() {
+        this.setState({ TextInputValue: '', warning: '' });
+        this.props.navigation.navigate('Home')
+        global.paths = []
+        global.tobeshown = []
+        global.myFullText = ""
+    }
 
     on_Done_all_slides = () => {
         this.setState({ show_Main_App: true });
@@ -31,35 +42,48 @@ class Home extends React.Component {
     };
 
     buttonClickListener = () => {
-        FjaletShqip = []
-        Info.map(item => {
-            FjaletShqip.push(item.Shqip)
-        })
-        const { TextInputValue } = this.state;
-        const TextInputUpper = TextInputValue.toUpperCase();
-        const TextInputSplit = TextInputUpper.split(" ");
-        FjaletShqip.forEach(element => {
-            if (TextInputSplit.includes(element)) {
-                tobeshown.push(element);
-            }
-        })
-        myText = tobeshown,
-        myFullText = TextInputValue       
-        tobeshown.forEach(element => {
+        if (this.state.TextInputValue != '') {
+            FjaletShqip = []
             Info.map(item => {
-                if (item.Shqip === element) {
-                    paths.push(item.VideoPath)
-                    paths.push(item.Shqip)
-                    this.setState({
-                        Video1: item.VideoPath,
-                        pathsLength: true,
-                    });
+                FjaletShqip.push(item.Shqip)
+            })
+            const { TextInputValue } = this.state;
+            const TextInputUpper = TextInputValue.toUpperCase();
+            const TextInputSplit = TextInputUpper.split(" ");
+            FjaletShqip.forEach(element => {
+                if (TextInputSplit.includes(element)) {
+                    tobeshown.push(element);
                 }
             })
-        });
-        this.textInput.clear()
-        this.props.navigation.navigate('ImageDisplay');
+            myText = tobeshown,
+                myFullText = TextInputValue
+            tobeshown.forEach(element => {
+                Info.map(item => {
+                    if (item.Shqip === element) {
+                        paths.push(item.VideoPath)
+                        paths.push(item.Shqip)
+                        this.setState({
+                            Video1: item.VideoPath,
+                            pathsLength: true,
+                        });
+                    }
+                })
+            });
+            this.textInput.clear()
+            this.props.navigation.navigate('ImageDisplay');
+        } else {
+            this.setState({
+                warning: 'Ju lutem shkruani në hapësirën më lartë'
+            })
+        }
+    }
 
+    Raporto = () => {
+        Linking.openURL('https://forms.gle/GtEcKMEzva67MNNV9')
+    }
+
+    RrethNesh = () => {
+        this.setState({ isModalVisible: !this.state.isModalVisible });
     }
 
     GjuhaShenjave = () => {
@@ -114,12 +138,196 @@ class Home extends React.Component {
                             style={styles.inputStyling}
                             onChangeText={TextInputValue => this.setState({ TextInputValue })}
                         />
+                        <Text style={{ color: 'red', fontSize: 13.5, fontFamily: 'Avenir-Light'}}> {this.state.warning} </Text>
                         <TouchableHighlight
                             style={styles.SendButton}
                             onPress={this.buttonClickListener}
-                        ><Image style={styles.sendImage} source={require('../assets/send.png')} /></TouchableHighlight>
-                    </View>
+                        >   
+                            <View style={{ justifyContent: 'center', alignItems: 'center', margin: 10, display: 'flex', flexDirection: 'row' }}>
+                                <Text style={{ fontFamily: 'Avenir-Light', fontSize: 17.5, color: 'white' }}> Dërgo </Text>
+                                <FontAwesome
+                                    name="send-o"
+                                    color="#fff"
+                                    size={hp("2.5%")}
+                                    style={{ backgroundColor: 'transparent' }}
+                                />
+                            </View>
+                            
+                        </TouchableHighlight>
+                        <View style={{ justifyContent: 'flex-start', backgroundColor: 'none' }}>
+                            <Text style={{ textAlign: 'left', color: '#333', fontFamily: 'Avenir-Light', fontSize: 15, margin: hp("2.5%")}}>Klikoni më poshtë për të mësuar më shumë për këtë aplikacion</Text>
+                            <TouchableHighlight
+                                style={styles.AboutUsButton}
+                                onPress={this.RrethNesh}
+                            >
+                                <View style={{ display: 'flex', flexDirection: 'row', alignItems: 'center', justifyContent: 'center' }}>
+                                    <Ionicons
+                                        name="md-information-circle"
+                                        color="#fff"
+                                        size={hp("4%")}
+                                        style={{ backgroundColor: 'transparent' }}
+                                    />
+                                    <Text style={{
+                                        fontFamily: "Avenir-Light",
+                                        fontSize: 17.5,
+                                        margin: hp("1.25%"), 
+                                        color: 'white'}}>Rreth nesh</Text>
+                                </View>
+                            </TouchableHighlight>
+                        </View>
 
+                        <View style={{ justifyContent: 'flex-start', backgroundColor: 'none' }}>
+                            <Text style={{ textAlign: 'left', color: '#333', fontFamily: 'Avenir-Light', fontSize: 15, margin: hp("2.5%"), marginLeft: hp("3.5%") }}>Keni ndonjë sugjerim rreth përdorimit të aplikacionit? Klikoni në butonin më poshtë për të vijuar më tej</Text>
+                            <TouchableHighlight
+                                style={styles.ReportButton}
+                                onPress={this.Raporto}
+                            >
+                                <View style={{ display: 'flex', flexDirection: 'row', alignItems: 'center', justifyContent: 'center' }}>
+                                    <MaterialIcons
+                                        name="chat"
+                                        color="#fff"
+                                        size={hp("4%")}
+                                        style={{ backgroundColor: 'transparent' }}
+                                    />
+                                    <Text style={{
+                                        fontFamily: "Avenir-Light",
+                                        fontSize: 17.5,
+                                        margin: hp("1.25%"),
+                                        color: 'white'
+                                    }}>Raporto</Text>
+                                </View>
+                            </TouchableHighlight>
+                        </View>
+                        
+                    </View>
+                    <Modal isVisible={this.state.isModalVisible}>
+                        <View style={{ flex: 1 }}>
+                            <ScrollView contentContainerStyle={styles.container1}>
+                                <Image style={{ width: wp("90%"), height: hp("40%"), margin: 0 }} source={require('../assets/logo.png')} />
+                                <Text style={{
+                                    margin: hp("1.5%"),
+                                    textAlign: 'center',
+                                    fontFamily: 'Avenir',
+                                    fontSize: 25,
+                                    color: 'white'
+                                }}> Rreth CWB </Text>
+                                <Text style={{
+                                    margin: hp("1.5%"),
+                                    textAlign: 'center',
+                                    fontFamily: 'Avenir-Light',
+                                    fontSize: 17.5,
+                                    color: 'white'
+                                }}>Lidhja e botës përtej barrierave është qëllimi kryesor i aplikacionit tonë. Caku i tij është lehtësimi i komunikimit ndërmjet personave të shurdhër dhe komunitetit. Ky projekt mundësohet nga Ipko Foundation dhe mbështetet nga Unicef Innovations Lab Kosovo.</Text>
+                                <Text style={{
+                                    margin: hp("1.5%"),
+                                    textAlign: 'center',
+                                    fontFamily: 'Avenir',
+                                    fontSize: 25,
+                                    color: 'white'
+                                }}> Historiku i shkurtër </Text>
+                                <Text style={{
+                                    margin: hp("1.5%"),
+                                    textAlign: 'center',
+                                    fontFamily: 'Avenir-Light',
+                                    fontSize: 17.5,
+                                    color: 'white'
+                                }}>CWB bashkoi idetë e 6 anëtarëve të ekipit me po të njejtin emër në fund të vitit 2019. Ky aplikacion lindi me idenë për të ndihmuar komunitetin tonë, në këtë rast, përkatësisht për t'i ndihmuar personave të shurdhër. Në vendin tonë jetojnë rreth 5000 të shurdhër dhe duke i marrë parasysh këto shifra, e pamë të arsyeshme që të marrim iniciativë për të ardhur me diçka në këtë aspekt dhe si rezultat dolëm me aplikacionin CWB. </Text>
+                                <Text style={{
+                                    margin: hp("1.5%"),
+                                    textAlign: 'center',
+                                    fontFamily: 'Avenir',
+                                    fontSize: 25,
+                                    color: 'white'
+                                }}> Kushtet e përdorimit </Text>
+                                <Text style={{
+                                    margin: hp("1.5%"),
+                                    textAlign: 'center',
+                                    fontFamily: 'Avenir-Light',
+                                    fontSize: 17.5,
+                                    color: 'white'
+                                }}>Ne do të sigurohemi që ju të keni performancën e dëshirueshme gjatë përdorimit të aplikacionit CWB. Por, natyrisht se ju duhet t'i përshtateni disa rregullave (neneve) me anë të të cilave do të sigurohet performanca, transparenca dhe siguria gjatë përdorimit të këtij aplikacioni: </Text>
+                                <Text style={{
+                                    margin: hp("0.5%"),
+                                    width: wp("87.5%"),
+                                    textAlign: 'left',
+                                    fontFamily: 'Avenir-Light',
+                                    fontSize: 12.5,
+                                    color: 'white'
+                                }}>1. Aplikacioni mund të përdoret nga të gjithë;</Text>
+                                <Text style={{
+                                    margin: hp("0.5%"),
+                                    width: wp("87.5%"),
+                                    textAlign: 'left',
+                                    fontFamily: 'Avenir-Light',
+                                    fontSize: 12.5,
+                                    color: 'white'
+                                }}>2. Në këtë aplikacion nuk do t'iu kërkohet të jepni të dhëna, prandaj asnjë informatë personale digjitale nuk do të mund të keqpërdoret;</Text>
+                                <Text style={{
+                                    margin: hp("0.5%"),
+                                    width: wp("87.5%"),
+                                    textAlign: 'left',
+                                    fontFamily: 'Avenir-Light',
+                                    fontSize: 12.5,
+                                    color: 'white'
+                                }}>3. CWB jep maksimumin në lehtësimin e komunikimit mes palëve pjesëmarrëse në aplikacion, por nuk merr përgjegjësi në rast të një keqkuptimi të mundshëm mes këtyre të fundit gjatë komunikimit brenda aplikacionit;</Text>
+                                <Text style={{
+                                    margin: hp("0.5%"),
+                                    width: wp("87.5%"),
+                                    textAlign: 'left',
+                                    fontFamily: 'Avenir-Light',
+                                    fontSize: 12.5,
+                                    color: 'white'
+                                }}>4. Si përdorues të aplikacionit, CWB ju dëshiron mirëseardhje dhe shfletim të këndshëm në aplikacionin tonë!</Text>
+                                    <View style={{ display: 'flex', flexDirection: 'row', alignItems: 'center', justifyContent: 'center' }}>
+                                        <MaterialIcons
+                                            name="copyright"
+                                            color="#fff"
+                                            size={hp("4%")}
+                                            style={{ backgroundColor: 'transparent' }}
+                                        />
+                                        <Text style={{
+                                            fontFamily: "Avenir-Light",
+                                            fontSize: 17.5,
+                                            margin: hp("2%"),
+                                            color: 'white'
+                                        }}>Të gjitha të drejtat e rezervuara! </Text>
+                                        
+                                    </View>
+                                <Text style={{
+                                    fontFamily: "Avenir-Light",
+                                    fontSize: 17.5,
+                                    fontStyle: 'italic',
+                                    margin: hp("1.25%"),
+                                    color: 'white'
+                                }}>Prishtinë, 2020 </Text>
+                                <View style={{ width: wp("90%"), justifyContent: 'flex-end', alignItems: 'flex-end'}}>
+                                <TouchableHighlight
+                                    style={{
+                                        shadowColor: "#000",
+                                        shadowOffset: {
+                                            width: 0,
+                                            height: 7,
+                                        },
+                                        shadowOpacity: 0.41,
+                                        shadowRadius: 9.11,
+
+                                        elevation: 14,
+                                        width: 40, height: 40, backgroundColor: '#fff', position: 'absolute', justifyContent: 'center', alignItems: 'center', padding: 0, borderRadius: 5, marginTop: hp("0.05%"), marginRight: hp("2.5%")
+                                    }}
+                                    onPress={this.RrethNesh}
+                                >
+                                    <MaterialIcons
+                                        name="close"
+                                        color="#333"
+                                        size={hp("3%")}
+                                        style={{ display: 'flex' }}
+                                    />
+                                </TouchableHighlight>
+                                </View>
+
+                            </ScrollView>
+                        </View>
+                    </Modal>
                 </View>
             );
         } else {
@@ -151,7 +359,16 @@ const styles = StyleSheet.create({
         borderTopLeftRadius: 25,
         borderTopRightRadius: 25,
         height: "100%",
-        marginTop: 25
+        marginTop: 25,
+        shadowColor: "#000",
+        shadowOffset: {
+            width: 0,
+            height: 7,
+        },
+        shadowOpacity: 0.41,
+        shadowRadius: 9.11,
+
+        elevation: 14
     },  
     ChooseLang: {
         alignItems: "center",
@@ -163,6 +380,12 @@ const styles = StyleSheet.create({
         flex: 1,
         backgroundColor: '#008081',
         alignItems: 'center',
+        justifyContent: 'flex-start',
+    },
+    container1: {
+        backgroundColor: '#008081',
+        alignItems: 'center',
+        borderRadius: 5,
         justifyContent: 'flex-start',
     },
     ImpWord: {
@@ -184,6 +407,15 @@ const styles = StyleSheet.create({
         borderColor: "#777",
         borderWidth: 1,
         borderRadius: 10,
+        shadowColor: "#000",
+        shadowOffset: {
+            width: 0,
+            height: 2,
+        },
+        shadowOpacity: 0.41,
+        shadowRadius: 9.11,
+
+        elevation: 14,
     },
     TextinButtonGjShq: {
         fontSize: 18.5,
@@ -225,19 +457,59 @@ const styles = StyleSheet.create({
         fontFamily: 'Avenir',
         fontWeight: "200",
         fontSize: 17.5,
-        // shadowColor: "#555",
-        // shadowOffset: {width: 0, height: 3},
-        // shadowOpacity: 1,
-        // opacity: 1
     },
     SendButton: {
         backgroundColor: '#008081', 
-        height: 50, 
-        width: 50,
-        position: "absolute",
-        top: 150,
-        right: wp("18.5%"),
-        borderBottomRightRadius: 5
+        height: 42.5, 
+        width: wp("45%"),
+        margin: hp("5%"),
+        position: "relative",
+        shadowColor: "#000",
+        shadowOffset: {
+            width: 0,
+            height: 7,
+        },
+        shadowOpacity: 0.41,
+        shadowRadius: 9.11,
+
+        elevation: 14,
+        borderRadius: 10
+    },
+    AboutUsButton: {
+        backgroundColor: '#008081',
+        height: 42.5,
+        width: wp("45%"),
+        marginTop: hp("0.5%"),
+        marginLeft: hp("2.5%"),
+        position: "relative",
+        shadowColor: "#000",
+        shadowOffset: {
+            width: 0,
+            height: 7,
+        },
+        shadowOpacity: 0.41,
+        shadowRadius: 9.11,
+
+        elevation: 14,
+        borderRadius: 10
+    },
+    ReportButton: {
+        backgroundColor: '#008081',
+        height: 42.5,
+        width: wp("45%"),
+        marginTop: hp("0.5%"),
+        marginLeft: hp("3.5%"),
+        position: "relative",
+        shadowColor: "#000",
+        shadowOffset: {
+            width: 0,
+            height: 7,
+        },
+        shadowOpacity: 0.41,
+        shadowRadius: 9.11,
+
+        elevation: 14,
+        borderRadius: 10
     },
     MainContainer: {
         flex: 1,

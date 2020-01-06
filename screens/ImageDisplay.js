@@ -8,6 +8,9 @@ class ImageDisplay extends React.Component {
     constructor(props) {
         super(props)
 
+        // this.state = {
+        //     istheresomething: global.tobeshown.length = 0 ? "Asnjë fjalë nuk u gjet në databazën tonë nga kërkimi juaj" : ''
+        // }
         // this.FjalaVete = global.tobeshown.map(element => {
         //     return element;
         // })

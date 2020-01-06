@@ -1,10 +1,5 @@
 [
 	{
-		"Shqip" : "KUTIA" ,
-		"VideoPath" : "https://i.imgur.com/vSjOXys.gif",
-		"Kategoria" : "MATERIALE"
-	},
-	{
 		"Shqip" : "NGROH" ,
 		"VideoPath" : "https://i.imgur.com/UqsvhGT.gif",
 		"Kategoria" : "TJERA"
@@ -16,11 +11,6 @@
 	},
 	{
 		"Shqip" : "HËNA" ,
-		"VideoPath" : "https://i.imgur.com/hH1P80i.gif",
-		"Kategoria" : "TJERA"
-	},
-	{
-		"Shqip" : "HËNË" ,
 		"VideoPath" : "https://i.imgur.com/hH1P80i.gif",
 		"Kategoria" : "TJERA"
 	},
@@ -95,6 +85,51 @@
 		"Kategoria" : "TJERA"
 	},
 	{
+		"Shqip" : "SHUMË" ,
+		"VideoPath" : "https://i.imgur.com/2oBLf3D.gif",
+		"Kategoria" : "TJERA"
+	},
+	{
+		"Shqip" : "TEPËR" ,
+		"VideoPath" : "https://i.imgur.com/RHDs9TP.gif",
+		"Kategoria" : "TJERA"
+	},
+	{
+		"Shqip" : "ATJE" ,
+		"VideoPath" : "https://i.imgur.com/2tUELFw.gif",
+		"Kategoria" : "TJERA"
+	},
+	{
+		"Shqip" : "ATY" ,
+		"VideoPath" : "https://i.imgur.com/VV3ZzJh.gif",
+		"Kategoria" : "TJERA"
+	},
+	{
+		"Shqip" : "LARG" ,
+		"VideoPath" : "https://i.imgur.com/ShXSB3I.gif",
+		"Kategoria" : "TJERA"
+	},
+	{
+		"Shqip" : "AFËR" ,
+		"VideoPath" : "https://i.imgur.com/h0Mp1GK.gif",
+		"Kategoria" : "TJERA"
+	},
+	{
+		"Shqip" : "THJESHT" ,
+		"VideoPath" : "https://i.imgur.com/n80yjdp.gif",
+		"Kategoria" : "TJERA"
+	},
+	{
+		"Shqip" : "PASTËRTI" ,
+		"VideoPath" : "https://i.imgur.com/jJqIKI2.gif",
+		"Kategoria" : "TJERA"
+	},
+	{
+		"Shqip" : "PASTËR" ,
+		"VideoPath" : "https://i.imgur.com/jJqIKI2.gif",
+		"Kategoria" : "TJERA"
+	},
+	{
 		"Shqip" : "PËR" ,
 		"VideoPath" : "https://i.imgur.com/JgQV3lz.gif",
 		"Kategoria" : "TJERA"
@@ -150,6 +185,16 @@
 		"Kategoria" : "VEPRIME"
 	},
 	{
+		"Shqip" : "AUTORI" ,
+		"VideoPath" : "https://i.imgur.com/Q32kuVO.gif",
+		"Kategoria": "PROFESIONI"
+	},
+	{
+		"Shqip" : "ASISTENTI" ,
+		"VideoPath" : "https://i.imgur.com/reCuQJF.gif",
+		"Kategoria" : "PROFESIONI"
+	},
+	{
 		"Shqip" : "HEKUROS " ,
 		"VideoPath" : "https://i.imgur.com/EKbJf03.gif",
 		"Kategoria" : "VEPRIME"
@@ -170,9 +215,19 @@
 		"Kategoria" : "PËRSHËNDETJE"
 	},
 	{
+		"Shqip" : "AMBASADORI" ,
+		"VideoPath" : "https://i.imgur.com/YSTSVc0.gif",
+		"Kategoria" : "PROFESIONI"
+	},
+	{
 		"Shqip" : "FESTOJ" ,
 		"VideoPath" : "https://i.imgur.com/598udPm.gif",
 		"Kategoria" : "VEPRIME"
+	},
+	{
+		"Shqip" : "PILOTI" ,
+		"VideoPath" : "https://i.imgur.com/8nbe3zb.gif",
+		"Kategoria" : "PROFESIONI"
 	},
 	{
 		"Shqip" : "RREGULLOJ" ,
@@ -255,6 +310,11 @@
 		"Kategoria" : "VEPRIME"
 	},
 	{
+		"Shqip": "KUTIA",
+		"VideoPath": "https://i.imgur.com/vSjOXys.gif",
+		"Kategoria": "MATERIALE"
+	},
+	{
 		"Shqip" : "HA" ,
 		"VideoPath" : "https://i.imgur.com/buSD8uT.gif",
 		"Kategoria" : "VEPRIME"
@@ -278,6 +338,11 @@
 		"Shqip" : "PUNOJ" ,
 		"VideoPath" : "https://i.imgur.com/rySGNHo.gif",
 		"Kategoria" : "VEPRIME"
+	},
+	{
+		"Shqip" : "ADMINISTRATORI" ,
+		"VideoPath" : "https://i.imgur.com/wK8YI3H.gif",
+		"Kategoria" : "PROFESIONI"
 	},
 	{
 		"Shqip" : "JAM" ,
@@ -357,6 +422,11 @@
 	{
 		"Shqip" : "DREJTOR " ,
 		"VideoPath" : "https://i.imgur.com/WUiPCik.gif",
+		"Kategoria" : "PROFESIONI"
+	},
+	{
+		"Shqip" : "JURISTI" ,
+		"VideoPath" : "https://i.imgur.com/IP720XN.gif",
 		"Kategoria" : "PROFESIONI"
 	},
 	{
@@ -1557,6 +1627,11 @@
 		"Kategoria" : "USHQIM"
 	},
 	{
+		"Shqip": "HËNË",
+		"VideoPath": "https://i.imgur.com/hH1P80i.gif",
+		"Kategoria": "TJERA"
+	},
+	{
 		"Shqip" : "PATATJA" ,
 		"VideoPath" : "https://i.imgur.com/4EBhXtq.gif",
 		"Kategoria" : "USHQIM"
@@ -1657,9 +1732,34 @@
 		"Kategoria" : "USHQIM"
 	},
 	{
+		"Shqip" : "SHITESI" ,
+		"VideoPath" : "https://i.imgur.com/SJROgXv.gif",
+		"Kategoria": "PROFESIONI"
+	},
+	{
+		"Shqip" : "I GJATË" ,
+		"VideoPath" : "https://i.imgur.com/9CN0Huh.gif",
+		"Kategoria": "TJERA"
+	},
+	{
+		"Shqip" : "I MADH" ,
+		"VideoPath" : "https://i.imgur.com/8syje9Y.gif",
+		"Kategoria": "TJERA"
+	},
+	{
+		"Shqip" : "I VOGËL" ,
+		"VideoPath" : "https://i.imgur.com/IXgurpJ.gif",
+		"Kategoria": "TJERA"
+	},
+	{
 		"Shqip" : "PIJE" ,
 		"VideoPath" : "https://i.imgur.com/1jY4QZZ.gif",
 		"Kategoria" : "USHQIM"
+	},
+	{
+		"Shqip" : "I SHKURTË" ,
+		"VideoPath" : "https://i.imgur.com/4fmAqE8.gif",
+		"Kategoria": "TJERA"
 	},
 	{
 		"Shqip" : "VAJI" ,
@@ -1670,6 +1770,16 @@
 		"Shqip" : "KOMUNIKIM" ,
 		"VideoPath" : "https://i.imgur.com/FEfhBYE.gif",
 		"Kategoria" : "TJERA"
+	},
+	{
+		"Shqip" : "PAK" ,
+		"VideoPath" : "https://i.imgur.com/UYWxhCl.gif",
+		"Kategoria": "TJERA"
+	},
+	{
+		"Shqip" : "ARKITEKTI" ,
+		"VideoPath" : "https://i.imgur.com/72DH9T8.gif",
+		"Kategoria": "PROFESIONI"
 	},
 	{
 		"Shqip" : "DËGJOJ" ,

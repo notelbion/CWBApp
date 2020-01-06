@@ -1,14 +1,16 @@
 import React from 'react';
-import { StyleSheet, Text, Button, View, TouchableOpacity, Image, TouchableHighlight, ScrollView } from 'react-native';
-import { CheckBox } from 'react-native-elements';
+import { StyleSheet, Text, Button, View, TouchableOpacity, TouchableHighlight, ScrollView } from 'react-native';
 import { Ionicons, MaterialIcons, MaterialCommunityIcons, FontAwesome } from '@expo/vector-icons';
 import { widthPercentageToDP as wp, heightPercentageToDP as hp } from 'react-native-responsive-screen';
+import Image from 'react-native-image-progress';
 import { Searchbar } from 'react-native-paper';
 import Info from '../kategoria.json';
 
 class Reply extends React.Component {
     constructor(props) {
         super(props);
+
+        global.wordstoShow = []
 
         this.state = {
             selection: [],
@@ -17,13 +19,13 @@ class Reply extends React.Component {
             toshowornottoshow: 'none',
             backgroundColorofCategory: '',
             categoryShow: '',
-            contentofScrollView: Info.slice(0, 10).map(item => { return <React.Fragment>
+            contentofScrollView: Info.slice(0, 25).map(item => { return <React.Fragment>
                 <TouchableOpacity onPress={() => { 
                     this.setState(prevState => ({
                         selection: [...prevState.selection, item.VideoPath],
                         toshowornottoshow: 'flex',
                     }))
-                    
+                    global.wordstoShow.push(item.Shqip)
                 }}>
                     <View style={{
                         justifyContent: 'center', alignItems: 'center', margin: 10, shadowColor: "#000",
@@ -35,7 +37,7 @@ class Reply extends React.Component {
                         shadowRadius: 9.11,
 
                         elevation: 14,}}>
-                            <Image style={styles.VideoPathImage} source={{ uri: item.VideoPath }} />
+                        <Image style={styles.VideoPathImage} source={{ uri: item.VideoPath }} />
                             <Text style={styles.textbelowimage}> {item.Shqip} </Text>
                         </View>
                     </TouchableOpacity>
@@ -74,6 +76,7 @@ class Reply extends React.Component {
                             selection: [...prevState.selection, item.VideoPath],
                             toshowornottoshow: 'flex',
                         }))
+                        global.wordstoShow.push(item.Shqip)
                     }}>
                         <View style={{
                             justifyContent: 'center', alignItems: 'center', margin: 10, shadowColor: "#000",
@@ -95,7 +98,7 @@ class Reply extends React.Component {
     }
 
     SendToHome = () => {
-        global.wordstoShow = []
+        this.props.navigation.navigate('SendToHm')
     }
 
     Pershendetje = () => {
@@ -111,6 +114,7 @@ class Reply extends React.Component {
                                     selection: [...prevState.selection, word.VideoPath],
                                     toshowornottoshow: 'flex',
                                 }))
+                                global.wordstoShow.push(word.Shqip)
                             }}>
                                 <View style={{
                                     justifyContent: 'center', alignItems: 'center', margin: 10, shadowColor: "#000",
@@ -146,6 +150,7 @@ class Reply extends React.Component {
                                     selection: [...prevState.selection, word.VideoPath],
                                     toshowornottoshow: 'flex',
                                 }))
+                                global.wordstoShow.push(word.Shqip)
                             }}>
                                 <View style={{
                                     justifyContent: 'center', alignItems: 'center', margin: 10, shadowColor: "#000",
@@ -181,6 +186,7 @@ class Reply extends React.Component {
                                     selection: [...prevState.selection, word.VideoPath],
                                     toshowornottoshow: 'flex',
                                 }))
+                                global.wordstoShow.push(word.Shqip)
                             }}>
                                 <View style={{
                                     justifyContent: 'center', alignItems: 'center', margin: 10, shadowColor: "#000",
@@ -216,6 +222,7 @@ class Reply extends React.Component {
                                     selection: [...prevState.selection, word.VideoPath],
                                     toshowornottoshow: 'flex',
                                 }))
+                                global.wordstoShow.push(word.Shqip)
                             }}>
                                 <View style={{
                                     justifyContent: 'center', alignItems: 'center', margin: 10, shadowColor: "#000",
@@ -251,6 +258,7 @@ class Reply extends React.Component {
                                     selection: [...prevState.selection, word.VideoPath],
                                     toshowornottoshow: 'flex',
                                 }))
+                                global.wordstoShow.push(word.Shqip)
                             }}>
                                 <View style={{
                                     justifyContent: 'center', alignItems: 'center', margin: 10, shadowColor: "#000",
@@ -287,6 +295,7 @@ class Reply extends React.Component {
                                     selection: [...prevState.selection, word.VideoPath],
                                     toshowornottoshow: 'flex',
                                 }))
+                                global.wordstoShow.push(word.Shqip)
                             }}>
                                 <View style={{
                                     justifyContent: 'center', alignItems: 'center', margin: 10, shadowColor: "#000",
@@ -323,6 +332,7 @@ class Reply extends React.Component {
                                     selection: [...prevState.selection, word.VideoPath],
                                     toshowornottoshow: 'flex',
                                 }))
+                                global.wordstoShow.push(word.Shqip)
                             }}>
                                 <View style={{
                                     justifyContent: 'center', alignItems: 'center', margin: 10, shadowColor: "#000",
@@ -359,6 +369,7 @@ class Reply extends React.Component {
                                     selection: [...prevState.selection, word.VideoPath],
                                     toshowornottoshow: 'flex',
                                 }))
+                                global.wordstoShow.push(word.Shqip)
                             }}>
                                 <View style={{
                                     justifyContent: 'center', alignItems: 'center', margin: 10, shadowColor: "#000",
@@ -395,6 +406,7 @@ class Reply extends React.Component {
                                     selection: [...prevState.selection, word.VideoPath],
                                     toshowornottoshow: 'flex',
                                 }))
+                                global.wordstoShow.push(word.Shqip)
                             }}>
                                 <View style={{
                                     justifyContent: 'center', alignItems: 'center', margin: 10, shadowColor: "#000",
@@ -430,6 +442,7 @@ class Reply extends React.Component {
                                     selection: [...prevState.selection, word.VideoPath],
                                     toshowornottoshow: 'flex',
                                 }))
+                                global.wordstoShow.push(word.Shqip)
                             }}>
                                 <View style={{
                                     justifyContent: 'center', alignItems: 'center', margin: 10, shadowColor: "#000",
@@ -465,6 +478,7 @@ class Reply extends React.Component {
                                     selection: [...prevState.selection, word.VideoPath],
                                     toshowornottoshow: 'flex',
                                 }))
+                                global.wordstoShow.push(word.Shqip)
                             }}>
                                 <View style={{
                                     justifyContent: 'center', alignItems: 'center', margin: 10, shadowColor: "#000",
@@ -501,6 +515,7 @@ class Reply extends React.Component {
                                     selection: [...prevState.selection, word.VideoPath],
                                     toshowornottoshow: 'flex',
                                 }))
+                                global.wordstoShow.push(word.Shqip)
                             }}>
                                 <View style={{
                                     justifyContent: 'center', alignItems: 'center', margin: 10, shadowColor: "#000",
@@ -537,6 +552,7 @@ class Reply extends React.Component {
                                     selection: [...prevState.selection, word.VideoPath],
                                     toshowornottoshow: 'flex',
                                 }))
+                                global.wordstoShow.push(word.Shqip)
                             }}>
                                 <View style={{
                                     justifyContent: 'center', alignItems: 'center', margin: 10, shadowColor: "#000",
@@ -573,6 +589,7 @@ class Reply extends React.Component {
                                     selection: [...prevState.selection, word.VideoPath],
                                     toshowornottoshow: 'flex',
                                 }))
+                                global.wordstoShow.push(word.Shqip)
                             }}>
                                 <View style={{
                                     justifyContent: 'center', alignItems: 'center', margin: 10, shadowColor: "#000",
@@ -609,6 +626,7 @@ class Reply extends React.Component {
                                     selection: [...prevState.selection, word.VideoPath],
                                     toshowornottoshow: 'flex',
                                 }))
+                                global.wordstoShow.push(word.Shqip)
                             }}>
                                 <View style={{
                                     justifyContent: 'center', alignItems: 'center', margin: 10, shadowColor: "#000",
@@ -645,6 +663,7 @@ class Reply extends React.Component {
                                     selection: [...prevState.selection, word.VideoPath],
                                     toshowornottoshow: 'flex',
                                 }))
+                                global.wordstoShow.push(word.Shqip)
                             }}>
                                 <View style={{
                                     justifyContent: 'center', alignItems: 'center', margin: 10, shadowColor: "#000",
@@ -681,6 +700,7 @@ class Reply extends React.Component {
                                     selection: [...prevState.selection, word.VideoPath],
                                     toshowornottoshow: 'flex',
                                 }))
+                                global.wordstoShow.push(word.Shqip)
                             }}>
                                 <View style={{
                                     justifyContent: 'center', alignItems: 'center', margin: 10, shadowColor: "#000",
@@ -848,12 +868,12 @@ class Reply extends React.Component {
                         </TouchableHighlight>
                         <TouchableHighlight style={styles.categoryboxes} onPress={this.Religjion} underlayColor="white">
                             <View style={{ justifyContent: 'center', alignItems: 'center', margin: 10 }}>
-                                <Image style={{
-                                    height: hp("4%"),
-                                    width: wp("5.5%"),
-                                    resizeMode: 'contain'
-                                }} 
-                                source={require('../assets/pray.png')} />
+                                <MaterialCommunityIcons
+                                    name="heart-multiple"
+                                    color="#333"
+                                    size={hp("4%")}
+                                    style={{ backgroundColor: 'transparent' }}
+                                />
                                 <Text style={{
                                     fontSize: 16,
                                     color: "#333",
