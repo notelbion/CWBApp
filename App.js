@@ -23,7 +23,7 @@ const RootStack = createStackNavigator(
     SendToHm: SendToHm
   },
   {
-    initialRouteName: 'Home',
+    initialRouteName: 'Intro',
     headerMode: 'none'
   }
 );

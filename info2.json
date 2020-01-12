@@ -221,43 +221,43 @@
 	},
 	{
 		"Shqip" : "MAKINË" ,
-		"VideoPath" : "linku"
+		"VideoPath" : "https://i.imgur.com/hllpvAW.gif"
 	},
 	{
 		"Shqip" : "MAKIN" ,
-		"VideoPath" : "linku"
+		"VideoPath" : "https://i.imgur.com/hllpvAW.gif"
 	},
 	{
 		"Shqip" : "MAKINE" ,
-		"VideoPath" : "linku"
+		"VideoPath" : "https://i.imgur.com/hllpvAW.gif"
 	},
 	{
 		"Shqip" : "VETURË" ,
-		"VideoPath" : "linku"
+		"VideoPath" : "https://i.imgur.com/hllpvAW.gif"
 	},
 	{
 		"Shqip" : "VETURE" ,
-		"VideoPath" : "linku"
+		"VideoPath" : "https://i.imgur.com/hllpvAW.gif"
 	},
 	{
 		"Shqip" : "VETUR" ,
-		"VideoPath" : "linku"
+		"VideoPath" : "https://i.imgur.com/hllpvAW.gif"
 	},
 	{
 		"Shqip" : "AUTOMJET" ,
-		"VideoPath" : "linku"
+		"VideoPath" : "https://i.imgur.com/hllpvAW.gif"
 	},
 	{
 		"Shqip" : "AUTOMJETI" ,
-		"VideoPath" : "linku"
+		"VideoPath" : "https://i.imgur.com/hllpvAW.gif"
 	},
 	{
 		"Shqip" : "VETURA" ,
-		"VideoPath" : "linku"
+		"VideoPath" : "https://i.imgur.com/hllpvAW.gif"
 	},
 	{
 		"Shqip" : "MAKINA" ,
-		"VideoPath" : "linku"
+		"VideoPath" : "https://i.imgur.com/hllpvAW.gif"
 	},
 	{
 		"Shqip" : "FËMIJËRI" ,
@@ -981,31 +981,27 @@
 	},
 	{
 		"Shqip" : "TJERA" ,
-		"VideoPath" : "linku"
+		"VideoPath" : "https://i.imgur.com/WRnq8yB.gif"
 	},
 	{
 		"Shqip" : "NDRYSHE" ,
-		"VideoPath" : "linku"
+		"VideoPath" : "https://i.imgur.com/IQfuRma.gif"
 	},
 	{
 		"Shqip" : "WHATSAPP" ,
-		"VideoPath" : "linku"
+		"VideoPath" : "https://i.imgur.com/rB9a9AQ.gif"
 	},
 	{
 		"Shqip" : "TWITTER" ,
-		"VideoPath" : "linku"
-	},
-	{
-		"Shqip" : "FACEBOOK" ,
-		"VideoPath" : "linku"
+		"VideoPath" : "https://i.imgur.com/BGk5CrD.gif"
 	},
 	{
 		"Shqip" : "YOUTUBE" ,
-		"VideoPath" : "linku"
+		"VideoPath" : "https://i.imgur.com/kiy5cYG.gif"
 	},
 	{
 		"Shqip" : "INSTAGRAM" ,
-		"VideoPath" : "linku"
+		"VideoPath" : "https://i.imgur.com/NA3XSQV.gif"
 	},
 	{
 		"Shqip" : "GOOGLE" ,
@@ -1013,11 +1009,11 @@
 	},
 	{
 		"Shqip" : "ANIJA" ,
-		"VideoPath" : "linku"
+		"VideoPath" : "https://i.imgur.com/lKWCVw3.gif"
 	},
 	{
 		"Shqip" : "ANIJE" ,
-		"VideoPath" : "linku"
+		"VideoPath" : "https://i.imgur.com/lKWCVw3.gif"
 	},
 	{
 		"Shqip" : "BICIKLETE" ,
@@ -1029,75 +1025,79 @@
 	},
 	{
 		"Shqip" : "MOTOÇIKLETË" ,
-		"VideoPath" : "linku"
+		"VideoPath" : "https://i.imgur.com/RASNnUd.gif"
 	},
 	{
 		"Shqip" : "MOTOCIKLETE" ,
-		"VideoPath" : "linku"
+		"VideoPath" : "https://i.imgur.com/RASNnUd.gif"
+	},
+	{
+		"Shqip" : "MOTOÇIKLETA" ,
+		"VideoPath" : "https://i.imgur.com/RASNnUd.gif"
 	},
 	{
 		"Shqip" : "TRENAT" ,
-		"VideoPath" : "linku"
+		"VideoPath" : "https://i.imgur.com/f22nxKC.gif"
 	},
 	{
 		"Shqip" : "TRENI" ,
-		"VideoPath" : "linku"
+		"VideoPath" : "https://i.imgur.com/f22nxKC.gif"
 	},
 	{
 		"Shqip" : "TREN" ,
-		"VideoPath" : "linku"
+		"VideoPath" : "https://i.imgur.com/f22nxKC.gif"
 	},
 	{
 		"Shqip" : "HELIKOPTER" ,
-		"VideoPath" : "linku"
+		"VideoPath" : "https://i.imgur.com/LFQbuLE.gif"
 	},
 	{
 		"Shqip" : "HELIKOPTERI" ,
-		"VideoPath" : "linku"
+		"VideoPath" : "https://i.imgur.com/LFQbuLE.gif"
 	},
 	{
 		"Shqip" : "INSTITUCIONEVE" ,
-		"VideoPath" : "linku"
+		"VideoPath" : "https://i.imgur.com/Gj257LR.gif"
 	},
 	{
 		"Shqip" : "INSTITUCIONET" ,
-		"VideoPath" : "linku"
+		"VideoPath" : "https://i.imgur.com/Gj257LR.gif"
 	},
 	{
 		"Shqip" : "FOTOGRAFI" ,
-		"VideoPath" : "linku"
+		"VideoPath" : "https://i.imgur.com/WjGMbQ4.gif"
 	},
 	{
 		"Shqip" : "FOTOGRAFIA" ,
-		"VideoPath" : "linku"
+		"VideoPath" : "https://i.imgur.com/WjGMbQ4.gif"
 	},
 	{
 		"Shqip" : "TAKSI" ,
-		"VideoPath" : "linku"
+		"VideoPath" : "https://i.imgur.com/QJ9Y9Iw.gif"
 	},
 	{
 		"Shqip" : "AUTOBUSËT" ,
-		"VideoPath" : "linku"
+		"VideoPath" : "https://i.imgur.com/YtEV41X.gif"
 	},
 	{
 		"Shqip" : "AUTOBUSET" ,
-		"VideoPath" : "linku"
+		"VideoPath" : "https://i.imgur.com/YtEV41X.gif"
 	},
 	{
 		"Shqip" : "AUTOBUSIN" ,
-		"VideoPath" : "linku"
+		"VideoPath" : "https://i.imgur.com/YtEV41X.gif"
 	},
 	{
 		"Shqip" : "AUTOBUSIT" ,
-		"VideoPath" : "linku"
+		"VideoPath" : "https://i.imgur.com/YtEV41X.gif"
 	},
 	{
 		"Shqip" : "AUTOBUSI" ,
-		"VideoPath" : "linku"
+		"VideoPath" : "https://i.imgur.com/YtEV41X.gif"
 	},
 	{
 		"Shqip" : "AUTOBUS" ,
-		"VideoPath" : "linku"
+		"VideoPath" : "https://i.imgur.com/YtEV41X.gif"
 	},
 	{
 		"Shqip" : "FARMACISË" ,
@@ -1141,67 +1141,67 @@
 	},
 	{
 		"Shqip" : "BARNATOREN" ,
-		"VideoPath" : "linku"
+		"VideoPath" : "https://i.imgur.com/BOL0EOx.gif"
 	},
 	{
 		"Shqip" : "BARNATORES" ,
-		"VideoPath" : "linku"
+		"VideoPath" : "https://i.imgur.com/BOL0EOx.gif"
 	},
 	{
 		"Shqip" : "BARNATORJA" ,
-		"VideoPath" : "linku"
+		"VideoPath" : "https://i.imgur.com/BOL0EOx.gif"
 	},
 	{
 		"Shqip" : "BARNATORET" ,
-		"VideoPath" : "linku"
+		"VideoPath" : "https://i.imgur.com/BOL0EOx.gif"
 	},
 	{
 		"Shqip" : "BARNATORE" ,
-		"VideoPath" : "linku"
+		"VideoPath" : "https://i.imgur.com/BOL0EOx.gif"
 	},
 	{
 		"Shqip" : "MARKETING" ,
-		"VideoPath" : "linku"
+		"VideoPath" : "https://i.imgur.com/JNnZuij.gif"
 	},
 	{
 		"Shqip" : "MARKETET" ,
-		"VideoPath" : "linku"
+		"VideoPath" : "https://i.imgur.com/xsdTchs.gif"
 	},
 	{
 		"Shqip" : "MARKET" ,
-		"VideoPath" : "linku"
+		"VideoPath" : "https://i.imgur.com/xsdTchs.gif"
 	},
 	{
 		"Shqip" : "MARKETIN" ,
-		"VideoPath" : "linku"
+		"VideoPath" : "https://i.imgur.com/xsdTchs.gif"
 	},
 	{
 		"Shqip" : "MARKETIT" ,
-		"VideoPath" : "linku"
+		"VideoPath" : "https://i.imgur.com/xsdTchs.gif"
 	},
 	{
 		"Shqip" : "MARKETI" ,
-		"VideoPath" : "linku"
+		"VideoPath" : "https://i.imgur.com/xsdTchs.gif"
 	},
 	{
 		"Shqip" : "DYQANET" ,
-		"VideoPath" : "linku"
+		"VideoPath" : "https://i.imgur.com/KLmBSMJ.gif"
 	},
 	{
 		"Shqip" : "DYQANIN" ,
-		"VideoPath" : "linku"
+		"VideoPath" : "https://i.imgur.com/KLmBSMJ.gif"
 	},
 	{
 		"Shqip" : "DYQANIT" ,
-		"VideoPath" : "linku"
+		"VideoPath" : "https://i.imgur.com/KLmBSMJ.gif"
 	},
 	{
 		"Shqip" : "DYQANI" ,
-		"VideoPath" : "linku"
+		"VideoPath" : "https://i.imgur.com/KLmBSMJ.gif"
 	},
 	{
 		"Shqip" : "DYQAN" ,
-		"VideoPath" : "linku"
+		"VideoPath" : "https://i.imgur.com/KLmBSMJ.gif"
 	},
 	{
 		"Shqip" : "PSIKOLOGËT" ,
@@ -1229,51 +1229,51 @@
 	},
 	{
 		"Shqip" : "GAZETARËT" ,
-		"VideoPath" : "linku"
+		"VideoPath" : "https://i.imgur.com/sNlPpI4.gif"
 	},
 	{
 		"Shqip" : "GAZETARET" ,
-		"VideoPath" : "linku"
+		"VideoPath" : "https://i.imgur.com/sNlPpI4.gif"
 	},
 	{
 		"Shqip" : "GAZETARIT" ,
-		"VideoPath" : "linku"
+		"VideoPath" : "https://i.imgur.com/sNlPpI4.gif"
 	},
 	{
 		"Shqip" : "GAZETARIN" ,
-		"VideoPath" : "linku"
+		"VideoPath" : "https://i.imgur.com/sNlPpI4.gif"
 	},
 	{
 		"Shqip" : "GAZETARI" ,
-		"VideoPath" : "linku"
+		"VideoPath" : "https://i.imgur.com/sNlPpI4.gif"
 	},
 	{
 		"Shqip" : "GAZETAR" ,
-		"VideoPath" : "linku"
+		"VideoPath" : "https://i.imgur.com/sNlPpI4.gif"
 	},
 	{
 		"Shqip" : "EKONOMISTËT" ,
-		"VideoPath" : "linku"
+		"VideoPath" : "https://i.imgur.com/EUBetLd.gif"
 	},
 	{
 		"Shqip" : "EKONOMISTET" ,
-		"VideoPath" : "linku"
+		"VideoPath" : "https://i.imgur.com/EUBetLd.gif"
 	},
 	{
 		"Shqip" : "EKONOMISTIN" ,
-		"VideoPath" : "linku"
+		"VideoPath" : "https://i.imgur.com/EUBetLd.gif"
 	},
 	{
 		"Shqip" : "EKONOMISTIT" ,
-		"VideoPath" : "linku"
+		"VideoPath" : "https://i.imgur.com/EUBetLd.gif"
 	},
 	{
 		"Shqip" : "EKONOMISTI" ,
-		"VideoPath" : "linku"
+		"VideoPath" : "https://i.imgur.com/EUBetLd.gif"
 	},
 	{
 		"Shqip" : "EKONOMIST" ,
-		"VideoPath" : "linku"
+		"VideoPath" : "https://i.imgur.com/EUBetLd.gif"
 	},
 	{
 		"Shqip" : "AUTORIN" ,
@@ -1783,67 +1783,67 @@
 	},
 	{
 		"Shqip" : "KËRCYER " ,
-		"VideoPath" : "linku"
+		"VideoPath" : "https://i.imgur.com/ndstrm9.gif"
 	},
 	{
 		"Shqip" : "KËRCEJM" ,
-		"VideoPath" : "linku"
+		"VideoPath" : "https://i.imgur.com/ndstrm9.gif"
 	},
 	{
 		"Shqip" : "KERCEJM" ,
-		"VideoPath" : "linku"
+		"VideoPath" : "lihttps://i.imgur.com/ndstrm9.gifnku"
 	},
 	{
 		"Shqip" : "KËRCEJN" ,
-		"VideoPath" : "linku"
+		"VideoPath" : "https://i.imgur.com/ndstrm9.gif"
 	},
 	{
 		"Shqip" : "KERCEJN" ,
-		"VideoPath" : "linku"
+		"VideoPath" : "linhttps://i.imgur.com/ndstrm9.gifku"
 	},
 	{
 		"Shqip" : "KËRCEJNË" ,
-		"VideoPath" : "linku"
+		"VideoPath" : "https://i.imgur.com/ndstrm9.gif"
 	},
 	{
 		"Shqip" : "KËRCENI " ,
-		"VideoPath" : "linku"
+		"VideoPath" : "https://i.imgur.com/ndstrm9.gif"
 	},
 	{
 		"Shqip" : "KËRCEJMË" ,
-		"VideoPath" : "linku"
+		"VideoPath" : "https://i.imgur.com/ndstrm9.gif"
 	},
 	{
 		"Shqip" : "KËRCEN " ,
-		"VideoPath" : "linku"
+		"VideoPath" : "https://i.imgur.com/ndstrm9.gif"
 	},
 	{
 		"Shqip" : "KËRCEJ" ,
-		"VideoPath" : "linku"
+		"VideoPath" : "https://i.imgur.com/ndstrm9.gif"
 	},
 	{
 		"Shqip" : "KERCYER " ,
-		"VideoPath" : "linku"
+		"VideoPath" : "https://i.imgur.com/ndstrm9.gif"
 	},
 	{
 		"Shqip" : "KERCEJNE " ,
-		"VideoPath" : "linku"
+		"VideoPath" : "https://i.imgur.com/ndstrm9.gif"
 	},
 	{
 		"Shqip" : "KERCENI " ,
-		"VideoPath" : "linku"
+		"VideoPath" : "https://i.imgur.com/ndstrm9.gif"
 	},
 	{
 		"Shqip" : "KERCEJME" ,
-		"VideoPath" : "linku"
+		"VideoPath" : "https://i.imgur.com/ndstrm9.gif"
 	},
 	{
 		"Shqip" : "KERCEN " ,
-		"VideoPath" : "linku"
+		"VideoPath" : "https://i.imgur.com/ndstrm9.gif"
 	},
 	{
 		"Shqip" : "KERCEJ " ,
-		"VideoPath" : "linku"
+		"VideoPath" : "https://i.imgur.com/ndstrm9.gif"
 	},
 	{
 		"Shqip" : "LENE " ,
@@ -6981,19 +6981,19 @@
 	},
 	{
 		"Shqip" : "SHKOLLË" ,
-		"VideoPath" : "linku"
+		"VideoPath" : "https://i.imgur.com/m5KsstQ.gif"
 	},
 	{
 		"Shqip" : "SHKOLL" ,
-		"VideoPath" : "linku"
+		"VideoPath" : "https://i.imgur.com/m5KsstQ.gif"
 	},
 	{
 		"Shqip" : "SHKOLLE" ,
-		"VideoPath" : "linku"
+		"VideoPath" : "https://i.imgur.com/m5KsstQ.gif"
 	},
 	{
 		"Shqip" : "SHKOLLA" ,
-		"VideoPath" : "linku"
+		"VideoPath" : "https://i.imgur.com/m5KsstQ.gif"
 	},
 	{
 		"Shqip" : "NGJYRA" ,
@@ -8197,19 +8197,23 @@
 	},
 	{
 		"Shqip" : "HISTORINË" ,
-		"VideoPath" : "linku"
+		"VideoPath" : "https://i.imgur.com/DmY0Gft.gif"
 	},
 	{
 		"Shqip" : "HISTORINE" ,
-		"VideoPath" : "linku"
+		"VideoPath" : "https://i.imgur.com/DmY0Gft.gif"
 	},
 	{
 		"Shqip" : "HISTORIN" ,
-		"VideoPath" : "linku"
+		"VideoPath" : "https://i.imgur.com/DmY0Gft.gif"
 	},
 	{
 		"Shqip" : "HISTORI" ,
-		"VideoPath" : "linku"
+		"VideoPath" : "https://i.imgur.com/DmY0Gft.gif"
+	},
+	{
+		"Shqip" : "HISTORI" ,
+		"VideoPath" : "https://i.imgur.com/DmY0Gft.gif"
 	},
 	{
 		"Shqip" : "KIMINË" ,
@@ -8245,23 +8249,23 @@
 	},
 	{
 		"Shqip" : "FIZIKË" ,
-		"VideoPath" : "linku"
+		"VideoPath" : "https://i.imgur.com/VnZi38F.gif"
 	},
 	{
 		"Shqip" : "FIZIKËN" ,
-		"VideoPath" : "linku"
+		"VideoPath" : "https://i.imgur.com/VnZi38F.gif"
 	},
 	{
 		"Shqip" : "FIZIK" ,
-		"VideoPath" : "linku"
+		"VideoPath" : "https://i.imgur.com/VnZi38F.gif"
 	},
 	{
 		"Shqip" : "FIZIKE" ,
-		"VideoPath" : "linku"
+		"VideoPath" : "https://i.imgur.com/VnZi38F.gif"
 	},
 	{
 		"Shqip" : "FIZIKEN" ,
-		"VideoPath" : "linku"
+		"VideoPath" : "https://i.imgur.com/VnZi38F.gif"
 	},
 	{
 		"Shqip" : "FANTA" ,

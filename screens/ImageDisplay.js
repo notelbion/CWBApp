@@ -1,16 +1,13 @@
 import React from 'react';
 import { StyleSheet, Text, View, Image, TouchableHighlight, ScrollView } from 'react-native';
 import Info from '../info2.json';
+import { MaterialCommunityIcons } from '@expo/vector-icons';
 import { widthPercentageToDP as wp, heightPercentageToDP as hp } from 'react-native-responsive-screen';
 
 
 class ImageDisplay extends React.Component {
     constructor(props) {
         super(props)
-
-        // this.state = {
-        //     istheresomething: global.tobeshown.length = 0 ? "Asnjë fjalë nuk u gjet në databazën tonë nga kërkimi juaj" : ''
-        // }
         // this.FjalaVete = global.tobeshown.map(element => {
         //     return element;
         // })
@@ -25,12 +22,13 @@ class ImageDisplay extends React.Component {
         this.props.navigation.navigate('Reply')
     }
     render() {
+        var contenti = 0
         return(
             <View style={styles.container}>
                 <Text style={styles.FullText}> Fjalia që ju shkruajtët: </Text>
                 <Text style={styles.OutputText}> {global.myFullText} </Text>
                 <Text style={styles.InSignLang}> Në gjuhë të shenjave: </Text>
-                <Text style={styles.OutputTextToBeShown}> {global.tobeshown.join(", ")} </Text>
+                <Text style={styles.OutputTextToBeShown}> { paths.length > 0 ? global.tobeshown.join(", ") : (contenti = 1, "Oops") } </Text>
                 <View style={{
                     flex: 1,
                     maxWidth: "100%",
@@ -41,9 +39,19 @@ class ImageDisplay extends React.Component {
                     justifyContent: 'center'
                 }}>
                     <ScrollView contentContainerStyle={styles.ImagesRow}>
-                        {global.paths.map(item => {
+                        {
+                        contenti != 1 ? global.paths.map(item => {
                             return <Image style={styles.VideoPathImage} source={{ uri: item }} />
-                        })}
+                        }) : <React.Fragment>
+                                    <Text style={styles.OutputTextToBeShownSorry}>Na vjen keq! Asnjë rezultat nuk u gjet nga kërkimi juaj! </Text>
+                                    <MaterialCommunityIcons
+                                        name="emoticon-sad"
+                                        color="#fff"
+                                        size={hp("15%")}
+                                        style={{ opacity: .75, backgroundColor: 'transparent', margin: hp("5%")}}
+                                    />
+                                </React.Fragment>
+                    } 
                     </ScrollView>
                 </View>
                 <View style={styles.buttonRow}>
@@ -130,6 +138,16 @@ const styles = StyleSheet.create({
         marginTop: 10,
         textDecorationLine: "underline",
         textTransform: 'capitalize'
+    },
+    OutputTextToBeShownSorry: {
+        marginLeft: 15,
+        fontFamily: "Avenir",
+        fontWeight: "200",
+        fontSize: 25,
+        textAlign: 'center',
+        color: "white",
+        textDecorationStyle: "solid",
+        marginTop: 10,
     },
     AboveSignLang: {
         marginTop: 10,

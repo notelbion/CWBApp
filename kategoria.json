@@ -335,9 +335,34 @@
 		"Kategoria" : "VEPRIME"
 	},
 	{
+		"Shqip" : "DYQANI" ,
+		"VideoPath" : "https://i.imgur.com/KLmBSMJ.gif",
+		"Kategoria" : "TJERA"
+	},
+	{
+		"Shqip" : "FIZIKA" ,
+		"VideoPath" : "https://i.imgur.com/VnZi38F.gif",
+		"Kategoria" : "TJERA"
+	},
+	{
+		"Shqip" : "MARKETI" ,
+		"VideoPath" : "https://i.imgur.com/xsdTchs.gif",
+		"Kategoria" : "TJERA"
+	},
+	{
+		"Shqip" : "GAZETARI" ,
+		"VideoPath" : "https://i.imgur.com/sNlPpI4.gif",
+		"Kategoria" : "PROFESIONI"
+	},
+	{
 		"Shqip" : "PUNOJ" ,
 		"VideoPath" : "https://i.imgur.com/rySGNHo.gif",
 		"Kategoria" : "VEPRIME"
+	},
+	{
+		"Shqip" : "EKONOMISTI" ,
+		"VideoPath" : "https://i.imgur.com/EUBetLd.gif",
+		"Kategoria" : "PROFESIONI"
 	},
 	{
 		"Shqip" : "ADMINISTRATORI" ,
@@ -605,6 +630,86 @@
 		"Kategoria" : "ORENDI"
 	},
 	{
+		"Shqip" : "TAKSI" ,
+		"VideoPath" : "https://i.imgur.com/QJ9Y9Iw.gif",
+		"Kategoria" : "TJERA"
+	},
+	{
+		"Shqip" : "HELIKOPTERI" ,
+		"VideoPath" : "https://i.imgur.com/LFQbuLE.gif",
+		"Kategoria" : "TJERA"
+	},
+	{
+		"Shqip" : "VETURA" ,
+		"VideoPath" : "https://i.imgur.com/hllpvAW.gif",
+		"Kategoria" : "TJERA"
+	},
+	{
+		"Shqip" : "HISTORIA" ,
+		"VideoPath" : "https://i.imgur.com/DmY0Gft.gif",
+		"Kategoria" : "TJERA"
+	},
+	{
+		"Shqip" : "AVIONI" ,
+		"VideoPath" : "https://i.imgur.com/31GBlrB.gif",
+		"Kategoria" : "TJERA"
+	},
+	{
+		"Shqip" : "AUTOMJETI" ,
+		"VideoPath" : "https://i.imgur.com/hllpvAW.gif",
+		"Kategoria" : "TJERA"
+	},
+	{
+		"Shqip" : "MOTOÇIKLETA" ,
+		"VideoPath" : "https://i.imgur.com/RASNnUd.gif",
+		"Kategoria" : "TJERA"
+	},
+	{
+		"Shqip" : "TRENI" ,
+		"VideoPath" : "https://i.imgur.com/f22nxKC.gif",
+		"Kategoria" : "TJERA"
+	},
+	{
+		"Shqip" : "MAKINA" ,
+		"VideoPath" : "https://i.imgur.com/hllpvAW.gif",
+		"Kategoria" : "TJERA"
+	},
+	{
+		"Shqip" : "RAKETA",
+		"VideoPath" : "https://i.imgur.com/6DeNcTs.gif",
+		"Kategoria" : "TJERA"
+	},
+	{
+		"Shqip" : "ANIJA" ,
+		"VideoPath" : "https://i.imgur.com/lKWCVw3.gif",
+		"Kategoria" : "TJERA"
+	},
+	{
+		"Shqip" : "AUTOBUSI" ,
+		"VideoPath" : "https://i.imgur.com/YtEV41X.gif",
+		"Kategoria" : "TJERA"
+	},
+	{
+		"Shqip" : "BARNATORJA" ,
+		"VideoPath" : "https://i.imgur.com/BOL0EOx.gif",
+		"Kategoria" : "TJERA"
+	},
+	{
+		"Shqip" : "SHKOLLA" ,
+		"VideoPath" : "https://i.imgur.com/m5KsstQ.gif", 
+		"Kategoria" : "TJERA"
+	},
+	{
+		"Shqip" : "INSTITUCIONI" ,
+		"VideoPath" : "https://i.imgur.com/Gj257LR.gif",
+		"Kategoria" : "TJERA"
+	},
+	{
+		"Shqip" : "MARKETING" ,
+		"VideoPath" : "https://i.imgur.com/JNnZuij.gif",
+		"Kategoria" : "TJERA"
+	},
+	{
 		"Shqip" : "FILXHANI" ,
 		"VideoPath" : "https://i.imgur.com/4QCp3fC.gif",
 		"Kategoria" : "ORENDI"
@@ -618,6 +723,11 @@
 		"Shqip" : "DRITA" ,
 		"VideoPath" : "https://i.imgur.com/BQ1v1Fo.gif",
 		"Kategoria" : "ORENDI"
+	},
+	{
+		"Shqip" : "FOTOGRAFIA" ,
+		"VideoPath" : "https://i.imgur.com/WjGMbQ4.gif",
+		"Kategoria" : "TJERA"
 	},
 	{
 		"Shqip" : "JORGANI" ,
@@ -932,14 +1042,54 @@
 		"Kategoria" : "VENDE"
 	},
 	{
+		"Shqip" : "WHATSAPP" ,
+		"VideoPath" : "https://i.imgur.com/rB9a9AQ.gif",
+		"Kategoria" : "SHPREHJE"
+	},
+	{
+		"Shqip" : "TWITTER" ,
+		"VideoPath" : "https://i.imgur.com/BGk5CrD.gif",
+		"Kategoria" : "SHPREHJE"
+	},
+	{
+		"Shqip" : "YOUTUBE" ,
+		"VideoPath" : "https://i.imgur.com/kiy5cYG.gif",
+		"Kategoria" : "SHPREHJE"
+	},
+	{
+		"Shqip" : "INSTAGRAM" ,
+		"VideoPath" : "https://i.imgur.com/NA3XSQV.gif",
+		"Kategoria" : "SHPREHJE"
+	},
+	{
 		"Shqip" : "GJEOGRAFI" ,
 		"VideoPath" : "https://i.imgur.com/3dkyEea.gif",
 		"Kategoria" : "TJERA"
 	},
 	{
+		"Shqip" : "VIBER" ,
+		"VideoPath" : "https://i.imgur.com/hjMrUnB.gif",
+		"Kategoria" : "SHPREHJE"
+	},
+	{
+		"Shqip" : "TJERA" ,
+		"VideoPath" : "https://i.imgur.com/WRnq8yB.gif",
+		"Kategoria" : "SHPREHJE"
+	},
+	{
 		"Shqip" : "HISTORI" ,
 		"VideoPath" : "https://i.imgur.com/KUQNNck.gif",
 		"Kategoria" : "TJERA"
+	},
+	{
+		"Shqip" : "KERCEJ " ,
+		"VideoPath" : "https://i.imgur.com/ndstrm9.gif",
+		"Kategoria" : "VEPRIME"
+	},
+	{
+		"Shqip" : "NDRYSHE" ,
+		"VideoPath" : "https://i.imgur.com/IQfuRma.gif",
+		"Kategoria" : "SHPREHJE"
 	},
 	{
 		"Shqip" : "KIMI" ,
@@ -952,7 +1102,7 @@
 		"Kategoria" : "TJERA"
 	},
 	{
-		"Shqip" : "FIZIKË" ,
+		"Shqip" : "FIZIKA" ,
 		"VideoPath" : "https://i.imgur.com/wfEcAF2.gif",
 		"Kategoria" : "TJERA"
 	},
@@ -1832,10 +1982,49 @@
 		"Kategoria" : "SHPREHJE"
 	},
 	{
+		"Shqip" : "TË DHËNAT" ,
+		"VideoPath" : "https://i.imgur.com/calDKW5.gif",
+		"Kategoria" : "TJERA"
+	},
+	{
+		"Shqip" : "MATERIAL" ,
+		"VideoPath" : "https://i.imgur.com/ldyeTBn.gif",
+		"Kategoria" : "TJERA"
+	},
+	{
+		"Shqip" : "PËRMIRËSOJ" ,
+		"VideoPath" : "https://i.imgur.com/4SHXxlp.gif",
+		"Kategoria" : "VEPRIME"
+	},
+	{
 		"Shqip" : "DJATHTAS" ,
 		"VideoPath" : "https://i.imgur.com/QfzEf8c.gif",
 		"Kategoria" : "SHPREHJE"
-
+	},
+	{
+		"Shqip" : "MUNDOHEM " ,
+		"VideoPath" : "https://i.imgur.com/5towOHc.gif",
+		"Kategoria" : "VEPRIME"
+	},
+	{
+		"Shqip" : "ORA" ,
+		"VideoPath" : "https://i.imgur.com/R81YP1X.gif",
+		"Kategoria" : "SHPREHJE"
+	},
+	{
+		"Shqip" : "BRAVO" ,
+		"VideoPath" : "https://i.imgur.com/EGpwsCA.gif",
+		"Kategoria" : "SHPREHJE"
+	},
+	{
+		"Shqip" : "DUHET" ,
+		"VideoPath" : "https://i.imgur.com/khk1fQ8.gif", 
+		"Kategoria" : "SHPREHJE"
+	},
+	{
+		"Shqip" : "INTERNACIONALE" ,
+		"VideoPath" : "https://i.imgur.com/mud1JNB.gif",
+		"Kategoria" : "SHPREHJE"
 	},
 	{
 		"Shqip" : "MIRËDITA" ,

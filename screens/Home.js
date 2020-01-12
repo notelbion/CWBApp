@@ -131,7 +131,7 @@ class Home extends React.Component {
                             onPress={this.GjuhaShenjave}
                         ><Text style={styles.TextinButtonGjShe}>Gjuha e shenjave</Text></TouchableHighlight>
                     </View>
-                    <View style={styles.UnderView}>
+                    <ScrollView contentContainerStyle={styles.UnderView}>
                         <TextInput
                             ref={input => { this.textInput = input }}
                             placeholder="Shkruani këtu..."
@@ -154,8 +154,8 @@ class Home extends React.Component {
                             </View>
                             
                         </TouchableHighlight>
-                        <View style={{ justifyContent: 'flex-start', backgroundColor: 'none' }}>
-                            <Text style={{ textAlign: 'left', color: '#333', fontFamily: 'Avenir-Light', fontSize: 15, margin: hp("2.5%")}}>Klikoni më poshtë për të mësuar më shumë për këtë aplikacion</Text>
+                        <View style={{ justifyContent: 'flex-start', backgroundColor: 'none', paddingLeft: hp("1%"), margin: hp("2.5%") }}>
+                            <Text style={{ textAlign: 'left', color: '#333', fontFamily: 'Avenir-Light', fontSize: 15}}>Klikoni më poshtë për të mësuar më shumë për këtë aplikacion</Text>
                             <TouchableHighlight
                                 style={styles.AboutUsButton}
                                 onPress={this.RrethNesh}
@@ -176,8 +176,8 @@ class Home extends React.Component {
                             </TouchableHighlight>
                         </View>
 
-                        <View style={{ justifyContent: 'flex-start', backgroundColor: 'none' }}>
-                            <Text style={{ textAlign: 'left', color: '#333', fontFamily: 'Avenir-Light', fontSize: 15, margin: hp("2.5%"), marginLeft: hp("3.5%") }}>Keni ndonjë sugjerim rreth përdorimit të aplikacionit? Klikoni në butonin më poshtë për të vijuar më tej</Text>
+                        <View style={{ justifyContent: 'flex-start', backgroundColor: 'none', paddingLeft: hp("1%"), margin: hp("2.5%"), marginLeft: hp("-1.5%") }}>
+                            <Text style={{ textAlign: 'left', color: '#333', fontFamily: 'Avenir-Light', fontSize: 15 }}>Klikoni në butonin më poshtë për sugjerim rreth përdorimit të aplikacionit</Text>
                             <TouchableHighlight
                                 style={styles.ReportButton}
                                 onPress={this.Raporto}
@@ -199,7 +199,7 @@ class Home extends React.Component {
                             </TouchableHighlight>
                         </View>
                         
-                    </View>
+                    </ScrollView>
                     <Modal isVisible={this.state.isModalVisible}>
                         <View style={{ flex: 1 }}>
                             <ScrollView contentContainerStyle={styles.container1}>
@@ -462,7 +462,7 @@ const styles = StyleSheet.create({
         backgroundColor: '#008081', 
         height: 42.5, 
         width: wp("45%"),
-        margin: hp("5%"),
+        margin: hp("1%"),
         position: "relative",
         shadowColor: "#000",
         shadowOffset: {
@@ -480,7 +480,6 @@ const styles = StyleSheet.create({
         height: 42.5,
         width: wp("45%"),
         marginTop: hp("0.5%"),
-        marginLeft: hp("2.5%"),
         position: "relative",
         shadowColor: "#000",
         shadowOffset: {
@@ -498,7 +497,6 @@ const styles = StyleSheet.create({
         height: 42.5,
         width: wp("45%"),
         marginTop: hp("0.5%"),
-        marginLeft: hp("3.5%"),
         position: "relative",
         shadowColor: "#000",
         shadowOffset: {
